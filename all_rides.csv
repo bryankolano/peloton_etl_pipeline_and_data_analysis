@@ -1,0 +1,722 @@
+workout_id,date,class_title,instructor,class_type,length_min,total_output_kj,rider_name
+a1dc56e4e596446086ac5c2fc501e7de,2023-05-25 09:31:58,30 min HIIT & Hills Ride,Bradley Rose,cycling,30,265.2,Bryan Kolano
+1563e22a21ac4ba59a31b3d813c17a77,2023-05-23 10:52:56,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+7fdf862eef47468cb404d6ce885eec4a,2023-05-18 09:40:34,20 min HIIT Ride,Ben Alldis,cycling,20,185.6,Bryan Kolano
+f50bc667fced4d798c4f3f02d69ece1e,2023-05-14 23:18:07,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+17baaa0c766243429e132d352f22e457,2023-05-12 10:50:51,20 min Focus Flow: Hamstrings,Aditi Shah,yoga,20,0.0,Bryan Kolano
+26b861017c2d492db1c039018743da4e,2023-05-12 09:37:03,20 min HIIT Ride,Bradley Rose,cycling,20,173.8,Bryan Kolano
+70ad93b1456c4d6c8c2d92928d78d8fb,2023-05-11 11:05:17,20 min Focus Flow: Hips,Aditi Shah,yoga,20,0.0,Bryan Kolano
+be33ccd69b584b1f941a0188cd4b4e22,2023-05-09 10:50:22,20 min Yoga Flow,Chelsea Jackson Roberts,yoga,20,0.0,Bryan Kolano
+704aca7bca3348c0a93c31ba70df7163,2023-05-09 09:32:08,30 min HIIT & Hills Ride,Sam Yo,cycling,30,262.8,Bryan Kolano
+02ccd6a0c4654addab6ca7b25749cfae,2023-05-07 20:52:38,20 min Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+e6ff3b849a754a07bee16ea9fcb004e3,2023-05-07 10:06:05,20 min HIIT Ride,Tunde Oyeneyin,cycling,20,178.9,Bryan Kolano
+ab87345776424b88a6bff65665382a41,2023-05-04 10:34:17,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+8cd2996dcafa416c95ab80a047efc739,2023-05-02 10:38:30,30 min Slow Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+6d8077d1e0a541759914c577825aadec,2023-04-30 19:18:32,30 min Rock Yoga Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+ae89aac4bb8945688f74b6d14aebdb4a,2023-04-29 17:24:57,30 min 80s Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+4d0713ab52384cb4a01a2aef5efdea06,2023-04-28 11:02:44,20 min HIIT Ride,Sam Yo,cycling,20,182.5,Bryan Kolano
+6e978026c4174bedb4df214f4d92549a,2023-04-27 10:46:33,20 min HIIT Ride,Ben Alldis,cycling,20,185.6,Bryan Kolano
+52560cbd99914bd9ab866f81c8632cee,2023-04-26 11:17:52,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+30df36bd240548949b125e94b78e2461,2023-04-24 11:47:38,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+0f982fd7a3fa47a7b70a29df3af5a3aa,2023-04-22 10:40:19,20 min HIIT Ride,Jess King,cycling,20,150.9,Bryan Kolano
+b74399ffdf104b66a9f3ab0e2bc4c797,2023-04-20 10:39:58,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+c909b37cae454ef08e3bff6dbabf9580,2023-04-19 12:07:09,30 min Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+198e28ff80e84653b37032d7b39d2729,2023-04-18 11:14:16,20 min Focus Flow: Floor Poses,Denis Morton,yoga,20,0.0,Bryan Kolano
+c88cc4af677049728c46b5cf60be5c57,2023-04-17 11:10:52,20 min Yoga Flow,Aditi Shah,yoga,20,0.0,Bryan Kolano
+7ed5cc20244349cfb2cb040f36c42078,2023-04-15 22:23:18,20 min Focus Flow: Shoulders,Kristin McGee,yoga,20,0.0,Bryan Kolano
+903873094b3e4446a37666e3e1f6e662,2023-04-14 20:21:50,20 min Focus Flow: Sun Salutations,Aditi Shah,yoga,20,0.0,Bryan Kolano
+1e2e183ea90442f8be21c312b77fc612,2023-04-14 09:56:19,20 min Tabata Ride,Olivia Amato,cycling,20,181.6,Bryan Kolano
+94fd527b19c243ec8eb700fa1cdb5f61,2023-04-13 19:48:43,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+43ce9afa1e694cf0b0c461d3873e3281,2023-04-13 09:53:01,20 min EDM Ride,Bradley Rose,cycling,20,176.8,Bryan Kolano
+b771196c975b4c879ca5ecf42ce2d812,2023-04-12 09:42:06,30 min HIIT Ride,Denis Morton,cycling,30,232.9,Bryan Kolano
+5b468ee235a447778a27cf4b2db3cba8,2023-04-11 18:52:00,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+729bda6718ba44efb310528e2c4e4e63,2023-04-04 09:45:17,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+6341adb7fa29499bb2960eae312ceba0,2023-03-30 11:16:22,5 min Cool Down Ride,Camila Ramón,cycling,5,26.3,Bryan Kolano
+96700420c9bc45959e4971e10d6870e3,2023-03-30 10:55:37,20 min Reggae Ride,Kendall Toole,cycling,20,169.6,Bryan Kolano
+e82e08ce0cd74e5c9f328c6f0d3626be,2023-03-29 11:55:16,20 min Tabata Ride,Denis Morton,cycling,20,140.8,Bryan Kolano
+97852327b2894265ac3fa721e2c8c0e2,2023-03-24 11:54:13,5 min Whitney Houston Cool Down Ride,Leanne Hainsby,cycling,5,23.7,Bryan Kolano
+2b52f5ae9e9f4f6491c71b217c4c0335,2023-03-24 11:33:47,20 min Classic Rock Ride,Bradley Rose,cycling,20,183.1,Bryan Kolano
+e0119d02a52c4bcaafad1013d81e31c7,2023-03-23 16:17:08,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+091f1a9da7a0474c9868ec0e481ffcdf,2023-03-22 10:16:35,5 min Cool Down Ride,Emma Lovewell,cycling,5,16.2,Bryan Kolano
+2e25cc45f15444458783015560930036,2023-03-22 09:56:14,20 min HIIT Ride,Emma Lovewell,cycling,20,186.7,Bryan Kolano
+56975355c52f41afa9f34b5eef4b9e0d,2023-03-21 12:00:34,30 min Balanced Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+9400d04c89e44d5486764d49bb2504fd,2023-03-20 16:39:51,30 min 90s Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+71dd5077087140f99960700fdca8b40a,2023-03-18 18:30:05,30 min Pop Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+04b1ff0b838247b5b19f9ef837285160,2023-03-16 10:44:26,20 min Slow Flow,Aditi Shah,yoga,20,0.0,Bryan Kolano
+1bebd421cb1d4b81bf0b9d538a3781fa,2023-03-15 10:21:53,5 min Cool Down Ride,Ben Alldis,cycling,5,20.6,Bryan Kolano
+19da0386b389424db06656a687b20981,2023-03-15 10:01:25,20 min Pop Punk Ride,Ally Love,cycling,20,186.5,Bryan Kolano
+efecf738e1274e2097e6ad7758c5a891,2023-03-13 11:40:02,5 min Cool Down Ride,Ally Love,cycling,5,23.8,Bryan Kolano
+198b561e3638451885384856f52dae5d,2023-03-13 11:19:31,20 min HIIT Ride,Bradley Rose,cycling,20,175.7,Bryan Kolano
+0583042265264c9bb6e2c1bfc3a95e43,2023-03-01 10:23:41,20 min House Ride,Olivia Amato,cycling,20,195.6,Bryan Kolano
+bce00f6db80c3d42b0f506ab400d26ac,2023-02-22 11:05:01,20 min 80s Ride,Sam Yo,cycling,20,180.9,Bryan Kolano
+533163aa8b1249e4906353e8148533af,2023-02-15 11:10:48,5 min Lower Body Stretch,Callie Gullickson,stretching,5,0.0,Bryan Kolano
+7135c1cf860836b1a32d3ac6b40fe78f,2023-02-15 10:50:01,20 min 90s Pop Ride,Ally Love,cycling,20,188.2,Bryan Kolano
+cbfdfdf63b024e809c254493cfaaed89,2023-02-08 11:15:42,5 min AFO Stretch: Carrie Underwood,Denis Morton,stretching,5,0.0,Bryan Kolano
+d8a2d9383004308aa4f52cd5d2ed3cd1,2023-02-08 10:55:01,20 min HIIT Ride,Denis Morton,cycling,20,164.4,Bryan Kolano
+c24678f00ada4bd18278e2eaeb186698,2023-01-29 18:40:37,5 min Cool Down Ride,Alex Toussaint,cycling,5,28.5,Bryan Kolano
+955f1e7ca2ac34a9a7614da75224c369,2023-01-29 18:20:01,20 min 90s Ride,Kendall Toole,cycling,20,208.7,Bryan Kolano
+8695db3945d4463dbbe487232aa56bea,2023-01-11 11:40:43,5 min Cool Down Ride,Emma Lovewell,cycling,5,16.8,Bryan Kolano
+a6790e559fed3e3089fc33e01faae2a2,2023-01-11 11:20:02,20 min Disco Ride,Sam Yo,cycling,20,190.5,Bryan Kolano
+32d622897a96492caf280a442a9acc2a,2023-01-04 11:10:24,5 min Cool Down Ride,Christine Dercole,cycling,5,13.8,Bryan Kolano
+22a7814e853a3b60a66a1932c754aee1,2023-01-04 10:50:01,20 min Tabata Ride,Olivia Amato,cycling,20,188.3,Bryan Kolano
+0f81d1f41cd04057a9124e093f0499b3,2022-12-26 19:22:58,5 min Cool Down Ride,Matt Wilpers,cycling,5,20.0,Bryan Kolano
+fb6dad548a624fdd806b4da25324ca46,2022-12-26 19:02:25,20 min Climb Ride,Denis Morton,cycling,20,186.4,Bryan Kolano
+2159b51c9b84485e841c7d3f0b747274,2022-12-22 20:24:22,20 min 90s Ride,Robin Arzón,cycling,20,178.0,Bryan Kolano
+1972c140f2b347c1b399124d27d6bc2e,2022-12-14 11:11:39,20 min EDM en Español Ride,Camila Ramón,cycling,20,186.6,Bryan Kolano
+3052607af72b45649e62c88708322254,2022-10-12 10:54:37,20 min Tropical House Mix,no instructor,lanebreak,20,200.8,Bryan Kolano
+2a1e518a1eef435da3e90ad90408119e,2022-10-01 16:02:20,15 min The Beach Boys,no instructor,lanebreak,15,128.7,Bryan Kolano
+5da9df9fd8bf44629c4efe2bc82378e5,2022-09-28 12:25:20,5 min Cool Down Ride,Ben Alldis,cycling,5,23.8,Bryan Kolano
+434a9360b508478681c008517885e106,2022-09-28 12:05:01,20 min Tropical House Ride,Ben Alldis,cycling,20,198.0,Bryan Kolano
+5bf4bbcd5fdd446bad04a17257eeb960,2022-09-21 11:23:35,20 min 90s Ride,Hannah Corbin,cycling,20,158.3,Bryan Kolano
+7b33c853d4dd4c328d4da86f05a5056d,2022-08-28 22:25:43,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+1c288473e0ad4d61845f3e04210d7b3f,2022-08-21 17:56:55,30 min AFO Yoga Flow: The Beach Boys,Denis Morton,yoga,30,0.0,Bryan Kolano
+27d0616910fc47cdbe3cfba3f3eb0e40,2022-08-17 19:23:16,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+0ee516239a854145b6fbaf07d8afe54c,2022-08-13 17:25:16,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+501e4046d34d409595da3cea39538a7a,2022-08-07 20:18:04,5 min Basics: Reverse Table Top,Denis Morton,yoga,5,0.0,Bryan Kolano
+86cdd825d17f4d568620f3937f81b79a,2022-08-07 19:55:52,20 min Focus Flow: Backbends,Ross Rayburn,yoga,20,0.0,Bryan Kolano
+074797a1b00b42de9f0592615de76d96,2022-08-06 17:23:20,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+ce61a70c63534487aa4acf3384fc35bb,2022-08-02 21:30:16,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+2f180e03e827453e88668d21ecc1ce6b,2022-07-31 18:47:05,20 min Slow Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+f729ba5f53de43d7a360c5a3010e6356,2022-07-30 17:10:51,30 min Deep House Yoga Flow,Nico Sarani,yoga,30,0.0,Bryan Kolano
+67ad2a58faa34101b1834c49685a741d,2022-07-24 17:57:12,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+bc2a591b9ca14b75b0488a0bfd18d1ba,2022-07-21 20:29:40,20 min Yoga Flow,Kirra Michel,yoga,20,0.0,Bryan Kolano
+7fc1e3dd89f1479cb0ad97122f6a3b37,2022-07-17 18:11:05,20 min Focus Flow: Healthy Back,Kirra Michel,yoga,20,0.0,Bryan Kolano
+c111dff4c2bb45678aa810c3a6d817f4,2022-07-16 16:46:40,30 min Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+3d5a8a4d55074a499ade0a8a48df1fd3,2022-07-13 19:45:58,30 min Focus Flow: Pigeon Pose,Denis Morton,yoga,30,0.0,Bryan Kolano
+4c01902c87b4427f8d20dc9d41ec2079,2022-07-12 20:29:43,20 min Balanced Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+2fb7c9f894b749b5be02fff3ffb9187d,2022-07-10 17:06:05,20 min Focus Flow: Chest Openers,Kirra Michel,yoga,20,0.0,Bryan Kolano
+ebbecc0b021f46558659fe7f0ae6d92c,2022-07-07 14:08:17,20 min Fourth of July Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+1d1792f563324c97a6707768069b5518,2022-07-01 15:25:21,30 min 80s Power Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+5b096a592067430cbef91582cf2a6a2e,2022-06-23 18:39:38,30 min Focus Flow: Pigeon Pose,Denis Morton,yoga,30,0.0,Bryan Kolano
+842d2869bf674c83a9a1ad8b5dbf1dcd,2022-06-21 18:37:54,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+9f7bbe15501c412f9249ebc972b717f1,2022-06-20 19:06:32,30 min Fathers Day Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+909f29ba401b43778e835e0afa2c8ed4,2022-06-19 17:33:24,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+90bdb7577f59438aa13a50bde54e4cb4,2022-06-17 15:19:20,20 min Classical Slow Flow,Aditi Shah,yoga,20,0.0,Bryan Kolano
+cef86747b5f849489dea856031e21c6f,2022-06-08 09:09:41,30 min HIIT & Hills Ride,Sam Yo,cycling,30,279.6,Bryan Kolano
+9723bbe504f04badad08a1d3d087dcaa,2022-06-05 17:07:57,30 min Morning Yoga Flow,Nico Sarani,yoga,30,0.0,Bryan Kolano
+a389f05b98424d908f6f4552ae3fe8d3,2022-06-03 09:31:23,30 min HIIT & Hills Ride,Cody Rigsby,cycling,30,307.1,Bryan Kolano
+d15f6bde1d6244e8b8222e71f2912ae1,2022-06-01 09:35:54,30 min Tabata Ride,Ally Love,cycling,30,270.1,Bryan Kolano
+8aa895ae6359441e8d1ab2417ee6ab0a,2022-05-31 19:17:33,20 min Slow Flow,Kirra Michel,yoga,20,0.0,Bryan Kolano
+19cdfdf6663249fe82c4c82d40a260df,2022-05-31 09:31:57,30 min HIIT & Hills Ride,Kendall Toole,cycling,30,280.6,Bryan Kolano
+c0c58f7efa7a4d87aa77c06c2b08a3e5,2022-05-30 16:34:46,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+cebacb936e3c481f991ca28765779a1f,2022-05-29 17:11:24,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+7a6d7a4e70dc4198bec79c7e7da07663,2022-05-29 09:26:00,30 min HIIT & Hills Ride,Bradley Rose,cycling,30,232.6,Bryan Kolano
+6e8428ca00224875a06e0e45dcac2f1f,2022-05-27 19:40:33,20 min Morning Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+85276386e2134da2958ec745e46bf7b4,2022-05-27 09:31:53,30 min HIIT Ride,Alex Toussaint,cycling,30,253.5,Bryan Kolano
+6c9c01ac59ea4483bd384a4371d1431b,2022-05-26 09:32:19,30 min HIIT & Hills Ride,Ally Love,cycling,30,229.1,Bryan Kolano
+9ff55d98a2e446538d217aa2c47e9f8e,2022-05-21 19:14:56,20 min Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+5261852c1799412fa2193e85fcb01d56,2022-05-20 17:15:20,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+59ff712499c048f581d72215ca4e0338,2022-05-19 23:21:19,20 min Classical Slow Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+c8e020fa4ec04ac79b87e79c365b4901,2022-05-18 17:38:14,20 min Slow Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+f2f6d5e53309415a9654b28b8a0f8c0f,2022-05-16 18:51:24,20 min Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+a7d25dbe5f4748868ebb2637d6c88675,2022-05-15 17:25:30,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+e4db6eaacfff4511824d2bb4c27903b6,2022-05-12 17:11:31,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+bf386d087c054480a46a3ad5173787e1,2022-05-08 17:56:22,20 min Paramore Yoga Flow,Aditi Shah,yoga,20,0.0,Bryan Kolano
+70605560c08d4da7bfe278840b24fec4,2022-05-05 21:46:40,20 min Grunge Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+6398b3da72b3425ca886f3fac3a239be,2022-05-03 21:06:25,20 min Slow Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+07fb9f3fb05c431cb8eab3c950b3d704,2022-05-01 17:40:42,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+85a037459d524fbb84121242bcefdfb6,2022-04-30 17:12:04,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+8bea9b4eba604939a8e81eec1a0db7b7,2022-04-29 09:26:11,20 min Yoga Flow,Aditi Shah,yoga,20,0.0,Bryan Kolano
+c082d21b21ff4137abbf34b829438e70,2022-04-27 16:45:02,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+c00f2f489bd64fe09b37520dbeadeae8,2022-04-23 14:55:11,20 min Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+73978845bf2f44d49290cbc78cac3c74,2022-04-21 08:38:30,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+ba2f6abc4b9148e4a8de8a23a857bab2,2022-04-20 08:38:12,20 min Focus Flow: Lower Body,Kirra Michel,yoga,20,0.0,Bryan Kolano
+b9a6a72d5c574ab0ae3f44f4d8cdafca,2022-04-19 20:12:28,20 min Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+42d87d5a867a4d8cafd3a14e7a329224,2022-04-18 19:14:33,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+66def49a3d174cee8e3e7333f2555a39,2022-04-15 08:38:14,30 min Morning Yoga Flow,Chelsea Jackson Roberts,yoga,30,0.0,Bryan Kolano
+c0d0fbe1230d4441b72219804405dcec,2022-04-14 17:38:16,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+344a731671cc4fdbbbb55bc98d5df338,2022-04-13 08:34:57,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+c8e920f9e81543e2a09ad51badc28468,2022-04-12 08:38:13,30 min 90s Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+cd6715c9e50544c8a42c24838c698748,2022-04-11 08:37:20,30 min Morning Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+c7526ae27d1a4b998462d84e05d46b13,2022-04-10 19:27:51,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+df011e754d8142a899ed9686c55154e9,2022-04-08 08:36:40,30 min Slow Flow,Mariana Fernández,yoga,30,0.0,Bryan Kolano
+349c3f89c08b4c119985d16e4ee11880,2022-04-07 08:38:27,30 min Morning Slow Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+90960224694545dc88c750303da4800a,2022-04-06 08:37:42,30 min Yoga Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+0a34e7c7e6144f5aaabf15e6873238a4,2022-04-05 08:40:45,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+b32cd16cb15148f5879068a458089f11,2022-04-04 08:39:44,30 min WHM Two for One Yoga Flow,no instructor,yoga,30,0.0,Bryan Kolano
+b9d82d5eb3104d109452fc2d114ae776,2022-04-03 21:00:18,20 min Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+cefbf6e2766c42c18111bde0cc2a2142,2022-04-01 08:37:29,30 min Slow Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+51e49fda4b264b18a795b4d401d07f71,2022-03-30 08:41:37,30 min Morning Slow Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+15de660dff9c4ebe9045271fd30b49e8,2022-03-29 08:44:17,30 min Slow Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+75e41c82f96740839112b168efdcc9c9,2022-03-27 17:22:32,30 min Slow Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+5eb5707d23cc420b8d040a4ef579d7b3,2022-03-27 16:29:41,30 min Slow Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+82d5a38dc1a643d2bd12d072d470b45d,2022-03-26 17:45:52,30 min Focus Flow: Hips,Kirra Michel,yoga,30,0.0,Bryan Kolano
+21d0c2d760c04f39ab80aedf4156800c,2022-03-25 19:04:51,30 min 80s Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+017d7d8e0f464c1288ee3c5c2b3c0dd6,2022-03-22 08:42:54,30 min Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+feb86bfce5f34b518e5103d32e76c283,2022-03-21 08:50:29,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+71db5076ef824c84a65591a6c3d60c49,2022-03-20 09:12:40,30 min Yoga Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+3609d954787b41ca845f7dbfdce531d5,2022-03-19 08:42:25,30 min Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+1f1545e6b9394b8baea6c047ad20df95,2022-03-17 17:08:05,30 min Focus Flow: Hips,Aditi Shah,yoga,30,0.0,Bryan Kolano
+99469f8caef8416aa360f6a45fb25a9d,2022-03-16 15:39:54,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+a83e739cbc08417d8367bb44f4549cca,2022-03-14 08:44:27,30 min Morning Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+2a0a22afe4ad4a9786bfbefed05194b7,2022-03-12 18:45:45,20 min Focus Flow: Hamstrings,Denis Morton,yoga,20,0.0,Bryan Kolano
+73758224507f473eb0bb062f386ecaed,2022-03-10 10:06:05,5 min Standing Yoga,Denis Morton,yoga,5,0.0,Bryan Kolano
+1bc00469a8094f65a2e8a63df1f8ffdd,2022-03-10 09:43:53,20 min Restorative,Anna Greenberg,yoga,20,0.0,Bryan Kolano
+3c190664e0e14253829b3026ab27eb52,2022-03-09 09:43:14,20 min Morning Slow Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+96aaf07de5114cc18bbeaecdff52bfbb,2022-03-08 09:36:40,30 min Yoga Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+97847c28e771449fa77ba354eb6cf26d,2022-03-07 09:43:30,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+5967abeb0dd94bc684de652769ef99d4,2022-03-06 18:08:24,20 min Yoga Flow,Anna Greenberg,yoga,20,0.0,Bryan Kolano
+8ebfc79bff684656b53c60e7cdc858e0,2022-03-05 19:26:17,20 min Mood Yoga Flow: Sweet,Kristin McGee,yoga,20,0.0,Bryan Kolano
+4dcba95c2e2f4a95b319a83e6f8c6bc0,2022-03-04 09:41:54,30 min Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+00f1eaf681b243719914d96620f31a05,2022-03-03 09:42:46,30 min Focus Flow: Hips,Ross Rayburn,yoga,30,0.0,Bryan Kolano
+8c85ae339b724a9fbffdb91370fa5346,2022-03-02 09:40:14,30 min Morning Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+b6c78e47cd4b4dea91c60ce533878969,2022-03-01 10:04:17,5 min Post-Ride Stretch,Jess King,stretching,5,0.0,Bryan Kolano
+9e9f083ba2ff4556ac612e9190be9ec1,2022-03-01 09:43:06,20 min EDM Ride,Jess King,cycling,20,187.2,Bryan Kolano
+673cb225bbe0496997e7b285690d66d6,2022-02-28 09:47:06,30 min Alternative Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+ca3102954b37422e917f28d3b3f26123,2022-02-27 15:11:34,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+8036eb850472466bbfba8ce19c40a92d,2022-02-26 22:20:28,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+f9a3ccec09104aca96a56b0caca09292,2022-02-25 09:52:33,30 min 2000s Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+9263ea21bd3a4e339c60c52dd5d4e87f,2022-02-24 09:42:02,30 min Yoga Flow,Nico Sarani,yoga,30,0.0,Bryan Kolano
+8d7c25b55dbd46b68db453d2bcc794cc,2022-02-23 09:41:00,30 min Morning Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+c237448c343b4e2fad14dce16d2a6fb4,2022-02-22 10:02:32,20 min Morning Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+5e73932444914081a5c39b538d5359eb,2022-02-22 09:39:20,20 min Pop Ride,Jenn Sherman,cycling,20,188.5,Bryan Kolano
+b6c0432c201d422cabf2be264f49d2e4,2022-02-21 18:37:43,30 min Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+5fc0e127246d427b9ef801fcb2e7971b,2022-02-19 19:57:34,5 min Courage Meditation,Ross Rayburn,meditation,5,0.0,Bryan Kolano
+473c3be0dc294002814fdc743f1361df,2022-02-19 19:24:41,30 min Slow Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+3368c00b75894db69213122d704d03fe,2022-02-18 18:57:08,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+5322f385214949dd89983af52db9c842,2022-02-17 09:45:20,30 min Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+a296c115ab8445f6adb04a2787e9a7b9,2022-02-16 10:13:28,5 min Cool Down Ride,Cody Rigsby,cycling,5,34.5,Bryan Kolano
+284a3fe97f7949bb9d01747d3316932a,2022-02-16 09:52:47,20 min Country Ride,Ally Love,cycling,20,178.5,Bryan Kolano
+6906ca4857c448baa019efcb5f209c6a,2022-02-15 09:51:41,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+2909cbc1f3bd474d9ab7f2317cf75c2e,2022-02-14 17:43:42,20 min Yoga Flow,Chelsea Jackson Roberts,yoga,20,0.0,Bryan Kolano
+089498966f3945488682a162be03094d,2022-02-14 09:48:02,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+eb74c08dc52b40a7ac63d6e98c1a7f61,2022-02-13 19:35:40,5 min Kindness Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+2a715cb0a6e8456285541bf9a2fc87e6,2022-02-13 19:04:13,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+d4d404d7a9e143a4b7b6434efcf7232d,2022-02-12 19:11:35,5 min Relaxing Meditation,Mariana Fernández,meditation,5,0.0,Bryan Kolano
+740041ff180146ebb210bad8cb440727,2022-02-12 18:38:26,30 min Focus Flow: Hamstrings,Denis Morton,yoga,30,0.0,Bryan Kolano
+0a560964b9dc4e04b33af5799191405d,2022-02-11 09:39:02,30 min Morning Slow Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+7dc09c02921d4881ad542e5a1435d346,2022-02-10 09:36:58,45 min Slow Flow,Anna Greenberg,yoga,45,0.0,Bryan Kolano
+b9b96def1b194833a2ac732d28030e24,2022-02-09 19:47:13,30 min Alternative Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+0f6fe44963c34f33b528ed27d1643d78,2022-02-09 10:07:12,5 min Cool Down Ride,Hannah Corbin,cycling,5,26.9,Bryan Kolano
+6f7c6494e6ae4ee0a67cd2e08ec820d6,2022-02-09 09:46:37,20 min EDM Ride,Kendall Toole,cycling,20,206.5,Bryan Kolano
+be4edda4983e4ccea11a40a8591fe48d,2022-02-08 17:40:56,20 min Yoga Flow,Ross Rayburn,yoga,20,0.0,Bryan Kolano
+3ae3ffe7a6484029980cb7c9bd8219c6,2022-02-08 09:58:02,30 min Morning Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+cd65ee37c2de47d897c557f6206d4ec2,2022-02-07 17:41:16,20 min Yoga Flow,Anna Greenberg,yoga,20,0.0,Bryan Kolano
+1022435c102340868872aed7aa41257d,2022-02-07 09:34:52,45 min Yoga Flow,Mariana Fernández,yoga,45,0.0,Bryan Kolano
+c2950c5c86064533963817162f8acda1,2022-02-06 18:27:27,45 min Yoga Flow,Anna Greenberg,yoga,45,0.0,Bryan Kolano
+7b18399f912c4bc0aec3919c79b738e0,2022-02-05 20:34:43,5 min Relaxing Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+3623117670c64d1195710d22ee140402,2022-02-04 19:33:39,60 min Yoga Flow,Kristin McGee,yoga,60,0.0,Bryan Kolano
+5d1676cdfb4a43d7ba926ff808a74bfe,2022-02-04 15:11:29,15 min Standing Yoga,Kirra Michel,yoga,15,0.0,Bryan Kolano
+04b634b39e804ab5b42475528dc2e963,2022-02-04 14:00:06,10 min Cool Down Ride,Olivia Amato,cycling,10,59.2,Bryan Kolano
+d4ed83db41644b2dada089a816396dc8,2022-02-04 13:29:10,30 min 2010s Pop Ride,Sam Yo,cycling,30,260.6,Bryan Kolano
+3b1fbcd1cc7349b1a8578ad2aeb7f065,2022-02-03 17:37:59,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+5afc046936ee43b89863f63628416d5e,2022-02-03 09:41:27,45 min Slow Flow,Aditi Shah,yoga,45,0.0,Bryan Kolano
+abc00a80d62344188d73f3ed1392277e,2022-02-02 17:11:43,15 min Stacking Stuffer: Yoga Flow,Nico Sarani,yoga,15,0.0,Bryan Kolano
+c6dd1538fe17416399a469e0d44dc3b4,2022-02-02 10:12:51,10 min Focus Flow: Hips,Anna Greenberg,yoga,10,0.0,Bryan Kolano
+3e06eaa0972a4303922583e0ce65d144,2022-02-02 09:40:41,30 min Focus Flow: Forward Folds,Aditi Shah,yoga,30,0.0,Bryan Kolano
+09d59e3ee23b4bb6904a3722213976dd,2022-02-01 10:12:19,20 min Slow Flow,Kirra Michel,yoga,20,0.0,Bryan Kolano
+c1451ae63e6c4855845e12b50a439a16,2022-02-01 10:02:30,5 min Cool Down Ride,Emma Lovewell,cycling,5,25.3,Bryan Kolano
+bcb219fde3784f0b9a041ef611493e14,2022-02-01 09:42:07,20 min Pop Ride,Jess King,cycling,20,171.3,Bryan Kolano
+4771ddd277fd4cda83a0664b48861ed2,2022-01-31 17:10:55,15 min Focus Flow: Hamstrings,Ross Rayburn,yoga,15,0.0,Bryan Kolano
+41079395bc264531935539f9a8588470,2022-01-31 10:14:54,5 min Morning Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+72d420dc091140e1af50ab90a55bc2b2,2022-01-31 09:43:43,30 min 90s Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+9d5b7d41cccb4b84b22ad2b87e3165f0,2022-01-31 09:37:38,45 min Yoga Flow,Anna Greenberg,yoga,45,0.0,Bryan Kolano
+ad6188b984854890ba83f4d162660668,2022-01-30 20:09:11,5 min Seasonal Meditation,Kristin McGee,meditation,5,0.0,Bryan Kolano
+34c31c1c08cc4f82aaaa1292230cf5dc,2022-01-30 19:21:19,45 min Slow Flow,Anna Greenberg,yoga,45,0.0,Bryan Kolano
+567fd9281d9b4d129e1a87b3cb058254,2022-01-30 16:01:41,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+e4abaddab63a450eaff9680d6f459148,2022-01-29 17:38:37,60 min Yoga Flow,Kristin McGee,yoga,60,0.0,Bryan Kolano
+7e4cb65bf24d458aa4fba043daefaec0,2022-01-28 10:02:23,20 min Morning Yoga Flow,Denis Morton,yoga,20,0.0,Bryan Kolano
+5dab09a0bf4e4d6c9f8a2a65207942d1,2022-01-28 09:35:07,20 min 70s Pop Ride,Jenn Sherman,cycling,20,168.8,Bryan Kolano
+3b1a47d4789146cfb7232f21017b13f5,2022-01-27 09:56:27,30 min Yoga Flow,Nico Sarani,yoga,30,0.0,Bryan Kolano
+b20512cc26624eb78172bb0eca3cc3c5,2022-01-27 09:31:21,20 min EDM Ride,Hannah Frankson,cycling,20,178.1,Bryan Kolano
+4e63d7aef972497c81d20de5c733892f,2022-01-26 09:46:09,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+36605d2b3f944048b24b0ef36c6dae4a,2022-01-25 10:05:29,20 min Focus Flow: Hamstrings,Anna Greenberg,yoga,20,0.0,Bryan Kolano
+3bb217fdaaee4b24a170b07571d3baa2,2022-01-25 09:40:22,20 min HIIT Ride,Ally Love,cycling,20,170.3,Bryan Kolano
+872f2b7d3b274d79a4f9b1866cf9f5db,2022-01-24 21:11:30,30 min Slow Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+16193ec632354cc0a81c9a862888dff3,2022-01-24 09:55:54,30 min Focus Flow: Hips,Aditi Shah,yoga,30,0.0,Bryan Kolano
+e19bbc5305bd491e955e475f26804334,2022-01-23 17:56:19,45 min Slow Flow,Denis Morton,yoga,45,0.0,Bryan Kolano
+5055a5d1b3f548c597fcfea689b4f0b2,2022-01-22 19:08:46,5 min Energizing Meditation,Kirra Michel,meditation,5,0.0,Bryan Kolano
+0cf2aa7e0cc7477392ef6b05e8698387,2022-01-22 18:37:01,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+aec72f7d750043be9b62d40426f8abbf,2022-01-22 14:20:26,5 min Cool Down Ride,Camila Ramón,cycling,5,24.7,Bryan Kolano
+96a490a06e594eb0a4a605c92d705e45,2022-01-22 13:50:01,30 min Todo Ritmo Ride,Camila Ramón,cycling,30,247.0,Bryan Kolano
+8d4e789b94af44639acd6f44463c59b6,2022-01-21 19:31:45,5 min Patience Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+cda77bd00c594a41874d1fa6c275b6b3,2022-01-21 18:44:56,45 min Slow Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+56dcb3c1d6184deab5de00244b1f854b,2022-01-21 14:10:11,20 min Focus Flow: Lower Body,Aditi Shah,yoga,20,0.0,Bryan Kolano
+2d8bce7be2f94cf0949004543fa31519,2022-01-21 09:53:58,30 min Pop Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+9aafb6e501de4c3c9f5bd97cec24151f,2022-01-20 10:30:26,5 min Savasana,Mariana Fernández,yoga,5,0.0,Bryan Kolano
+79edcfa05a364d129abbb6aa2fb5571e,2022-01-20 10:09:04,20 min Focus Flow: Hamstrings,Mariana Fernández,yoga,20,0.0,Bryan Kolano
+77c0ef8da99148b7a0105982c712a3f1,2022-01-20 09:57:14,5 min Cool Down Ride,Robin Arzón,cycling,5,20.3,Bryan Kolano
+5818a94dd065444f9ccc7dea8026f729,2022-01-20 09:36:22,20 min HIIT Ride,Kendall Toole,cycling,20,131.8,Bryan Kolano
+15e75753fad040209bb27a5ba6ac36c3,2022-01-19 21:21:46,20 min Focus Flow: Lower Body,Kristin McGee,yoga,20,0.0,Bryan Kolano
+4193080b546d4be987bdf39d71e9e941,2022-01-19 09:46:31,30 min Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+1f1d8a4e73a240139ecc13a1becb723a,2022-01-18 19:28:35,5 min Courage Meditation,Ross Rayburn,meditation,5,0.0,Bryan Kolano
+0bc3e7bf53bc402da552755d2a5cdf57,2022-01-18 18:42:31,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+1f8e6d9ba6c140cb80799a80d66e324f,2022-01-18 14:28:49,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+d9bc42824ba8437bbd717c40c0b2390a,2022-01-17 15:40:42,5 min Cool Down Ride,Jess King,cycling,5,22.0,Bryan Kolano
+b4525b07e9ce40f4ba63af2ed0829cce,2022-01-17 15:10:01,30 min Sweat Steady Ride,Jess King,cycling,30,257.6,Bryan Kolano
+a3f794b71ccc40cf8213f5c65c135601,2022-01-17 10:25:48,5 min Morning Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+3fdb06abd77d4b08868d118c8446cf85,2022-01-17 09:53:01,30 min Morning Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+ccdeeaed0f9740f18aa89d95f4c6a929,2022-01-16 19:21:50,5 min Morning Meditation,Ross Rayburn,meditation,5,0.0,Bryan Kolano
+901f957b100f4d6e8a9c9540370f9fc8,2022-01-16 18:51:05,30 min Yoga Flow,Chelsea Jackson Roberts,yoga,30,0.0,Bryan Kolano
+fbdc8f7c4f504f8bbdfc65090cd5d4b5,2022-01-16 18:40:26,5 min Cool Down Ride,Ally Love,cycling,5,26.8,Bryan Kolano
+dc7768d57ecb4c7a8acd868403019241,2022-01-16 18:20:03,20 min 2000s Ride,Kendall Toole,cycling,20,181.0,Bryan Kolano
+c4ff7dceaef0469eb2438fa52fa76719,2022-01-15 23:50:09,5 min Sleep Meditation,Ross Rayburn,meditation,5,0.0,Bryan Kolano
+dcdc9a48b2e2478d8ae2bb50da8ccf09,2022-01-14 19:17:10,10 min Seasonal Meditation,Cody Rigsby,meditation,10,0.0,Bryan Kolano
+fe21da17efde41808e8b041b2f6ac3df,2022-01-14 18:44:29,30 min Jazz Yoga Flow,Ross Rayburn,yoga,30,0.0,Bryan Kolano
+505eb831dccd4983a56dc468e9daeeca,2022-01-14 15:13:15,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+d5c1db4cc0a747caac52736e60e44205,2022-01-13 16:45:37,45 min Slow Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+1ac29bceefee4b79a6acb29b70bd058a,2022-01-13 10:30:59,5 min Peace Meditation,Kristin McGee,meditation,5,0.0,Bryan Kolano
+725d7faa13bf4492a90ed3b89f406128,2022-01-13 10:09:14,20 min Yoga Flow,Kristin McGee,yoga,20,0.0,Bryan Kolano
+cc0666910098415ba92f61cd78c1f22f,2022-01-13 09:43:04,20 min 90s Ride,Leanne Hainsby,cycling,20,153.0,Bryan Kolano
+b49c70afc92a4201a3d27cdf583be9aa,2022-01-12 19:08:01,5 min Calming Meditation,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+632e77934fd841f38e36dd90b75d2522,2022-01-12 18:21:00,45 min Yoga Flow,Aditi Shah,yoga,45,0.0,Bryan Kolano
+5a1f88de2a354f22a9b61d1bdcf6b3e6,2022-01-12 09:45:00,30 min Country Yoga Flow,Ross Rayburn,yoga,30,0.0,Bryan Kolano
+7cf700b83df54fc3bbdbe295191c2f5b,2022-01-11 18:08:59,60 min Slow Flow,Kristin McGee,yoga,60,0.0,Bryan Kolano
+71867f42fb1846d99a566488be3c772b,2022-01-11 14:09:26,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+821f5b94b45149fab42569b823a8e7aa,2022-01-10 09:51:00,30 min Slow Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+79b190bb20fa4307990d49feec213741,2022-01-09 18:13:22,15 min Focus Flow: Hips,Anna Greenberg,yoga,15,0.0,Bryan Kolano
+ae61b8cc4d7547b6b316782411eedaf2,2022-01-09 13:42:54,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+80fef769fb4542e9a8a449b8d5eba379,2022-01-08 19:38:54,60 min Yoga Flow,Denis Morton,yoga,60,0.0,Bryan Kolano
+b142397dec5146f397432d69eb156485,2022-01-08 10:08:39,10 min Morning Meditation,Aditi Shah,meditation,10,0.0,Bryan Kolano
+0e36ffb0315a414e8bff09eb7a042e6c,2022-01-08 09:36:58,30 min Focus Flow: Standing Poses,Kirra Michel,yoga,30,0.0,Bryan Kolano
+6c033a7a3c8e48dca31da9573320d2ce,2022-01-07 18:19:28,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+35e02a9494da4afbbb04f758a5000a0a,2022-01-06 19:11:50,5 min Breathwork: Equal Breath,Anna Greenberg,meditation,5,0.0,Bryan Kolano
+d1eafebe42e54644916c5ba009cf730d,2022-01-06 18:39:58,30 min 2000s Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+138aba789e4d42a4838b05747f31d336,2022-01-06 18:13:25,20 min 80s Ride,Denis Morton,cycling,20,145.6,Bryan Kolano
+00b26175023445a098e0e3b58b0c5367,2022-01-06 11:28:57,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+a64e55c20b0c4b0dbdc134b04cf56907,2022-01-05 23:56:49,5 min Calming Meditation,Kristin McGee,meditation,5,0.0,Bryan Kolano
+2c430fb6ba684d7a8b08a669eec61813,2022-01-04 17:07:32,15 min Stacking Stuffer: Power Yoga,Denis Morton,yoga,15,0.0,Bryan Kolano
+2974283cd5d14e418241ef52b4825ca2,2022-01-03 09:40:48,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+914fed8bc5fe41ddbcfb1ab16dff7303,2022-01-02 09:36:06,30 min Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+0a8b6341fa384a3b9cd18d174a71406f,2022-01-01 21:46:41,20 min Groove Ride,Emma Lovewell,cycling,20,162.0,Bryan Kolano
+e5d77e551e7843b780a537db9bdf2821,2021-12-30 09:30:50,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+e051f7c3712b4c6cb073090750ce8274,2021-12-25 09:38:41,30 min Classical Yoga Flow,Chelsea Jackson Roberts,yoga,30,0.0,Bryan Kolano
+a7e4c8275f1c424781927001b5fe2445,2021-12-24 09:30:57,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+ca8bb4be8a594e3689677e5d77bbf9ea,2021-12-23 09:40:41,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+f5a81fc5ed424f468db394a12598c7e4,2021-12-22 09:41:55,45 min Yoga Flow,Denis Morton,yoga,45,0.0,Bryan Kolano
+734729d6fdec4b5e9cd08da64d6a389b,2021-12-21 09:41:59,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+5acd92594ac8461889451c0ca7f5cb81,2021-12-16 19:08:19,20 min Focus Flow: Hamstrings,Kristin McGee,yoga,20,0.0,Bryan Kolano
+d6da1b8956464f08be201175a4cc5035,2021-12-15 09:42:37,30 min Y2K Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+e03a6e2741d94fffab57cf769c93cdbb,2021-12-14 09:44:10,30 min Deep House Yoga Flow,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+8cae6a7500264f9f967e8350902c7a8b,2021-12-13 09:46:17,30 min Focus Flow: Hips,Kristin McGee,yoga,30,0.0,Bryan Kolano
+da771b8d3bff47609d31d6b5834da6be,2021-12-12 09:45:25,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+55e954f52cb648a1a5879366cf9d39e4,2021-12-11 18:50:50,20 min Focus Flow: Lower Body,Kristin McGee,yoga,20,0.0,Bryan Kolano
+252294a6e1d84804a197ca83524681d1,2021-12-10 09:48:07,30 min Yoga Flow,Aditi Shah,yoga,30,0.0,Bryan Kolano
+f0240d7d46054e6a92be95ca291864c3,2021-12-09 09:44:15,30 min Yoga Flow,Mariana Fernández,yoga,30,0.0,Bryan Kolano
+2b1cd166bf6a4772ad46c700ed7c6d65,2021-12-08 09:41:33,45 min Yoga Flow,Mariana Fernández,yoga,45,0.0,Bryan Kolano
+e91bd340067046ada0273506f018cfc0,2021-12-07 09:59:55,30 min Yoga Flow,Kirra Michel,yoga,30,0.0,Bryan Kolano
+2238a3c11ea24893b1325194426b1555,2021-12-07 09:45:57,10 min Kindness Meditation,Ross Rayburn,meditation,10,0.0,Bryan Kolano
+faf47f4bba7a483e81cea7f067876bb1,2021-12-06 09:59:31,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Bryan Kolano
+5d6762008a504a4bbe630a5d8f991de7,2021-12-03 17:08:51,30 min Yoga Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+ac302be8db4944249352fb28c446aef4,2021-12-02 09:46:29,30 min Reggae Yoga Flow,Chelsea Jackson Roberts,yoga,30,0.0,Bryan Kolano
+7a253f30d7b8439897d5d2106da2bf34,2021-12-01 09:43:08,45 min Slow Flow,Kirra Michel,yoga,45,0.0,Bryan Kolano
+76182a57a7504cbe9833d689cfc7c3d3,2021-11-30 09:43:35,45 min Morning Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+bc30332854444aea91d36cf0eb1f6b8a,2021-11-29 09:49:47,30 min Disco Yoga Flow,Ross Rayburn,yoga,30,0.0,Bryan Kolano
+974b91cd7be449fd8c6ec478350b6d2c,2021-11-27 10:01:09,20 min Focus Flow: Hips,Kristin McGee,yoga,20,0.0,Bryan Kolano
+b998e684fbf34b82889956721bf3d4b2,2021-11-26 09:45:01,45 min Focus Flow: Hamstrings,Denis Morton,yoga,45,0.0,Bryan Kolano
+7f4e8ff5e83e470f9800bff5930057dd,2021-11-25 09:45:25,45 min Yoga Flow,Kristin McGee,yoga,45,0.0,Bryan Kolano
+0846fbbdfd334f70a62ea05c1657933e,2021-11-24 09:46:10,45 min Slow Flow,Anna Greenberg,yoga,45,0.0,Bryan Kolano
+e07b90e37ee1432c928473336004f3dc,2021-11-23 09:44:43,45 min Yoga Flow,Aditi Shah,yoga,45,0.0,Bryan Kolano
+2289df74cf9f43f890f3d43f25cc8ab6,2021-11-22 09:52:26,45 min Power Yoga,Ross Rayburn,yoga,45,0.0,Bryan Kolano
+ffc7113b96214ca5b1d39c82f8526567,2021-11-22 09:37:33,10 min Morning Meditation,Aditi Shah,meditation,10,0.0,Bryan Kolano
+e75f80aec2cd4132824893532f02edf7,2021-11-21 09:54:55,45 min Beyond the Pose: Foundation,Denis Morton,yoga,45,0.0,Bryan Kolano
+873d25c08a284b539d7a298cc4ca87ee,2021-11-20 10:03:21,45 min Yoga Flow,Denis Morton,yoga,45,0.0,Bryan Kolano
+434a31eff0144187821c4384461f7d90,2021-11-19 10:12:47,30 min Focus Flow: Lower Body,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+31a1fed4107c4fba9ea9c7be54cc04dc,2021-11-19 09:59:50,30 min Focus Flow: Lower Body,Anna Greenberg,yoga,30,0.0,Bryan Kolano
+bc5803af93164eed89b06ded721d2100,2021-11-18 09:59:00,30 min Slow Flow,Denis Morton,yoga,30,0.0,Bryan Kolano
+d7627df737f1445393608419007fde6e,2021-11-17 17:31:16,30 min Focus Flow: Lower Body,Aditi Shah,yoga,30,0.0,Bryan Kolano
+c8d6a4391e12496cbde50c8112cf9836,2021-11-05 16:51:31,15 min Focus Flow: Glutes,Kirra Michel,yoga,15,0.0,Bryan Kolano
+1956793e912446ea9474b2726c32f49c,2021-10-31 12:35:32,20 min New Tracks Ride,Ally Love,cycling,20,201.7,Bryan Kolano
+baad731f8651497088580d0c79122a63,2021-10-27 20:23:38,20 min 90s Ride,Jenn Sherman,cycling,20,179.6,Bryan Kolano
+051e57f82dce4a299aa06e23cea03817,2021-10-19 20:15:02,20 min 2000s Ride,Kendall Toole,cycling,20,176.4,Bryan Kolano
+e65b72ee9cd541659064a30712059796,2021-10-17 13:30:53,45 min Rock Ride,Jenn Sherman,cycling,45,386.1,Bryan Kolano
+212890c2932d4e70a338251491281614,2021-10-17 13:24:22,5 min Warm Up Ride,Bradley Rose,cycling,5,28.3,Bryan Kolano
+228123a4c47e4bebb3e181261ad5667a,2021-10-16 13:40:01,20 min Pop Ride,Hannah Corbin,cycling,20,151.2,Bryan Kolano
+cee404ed30d844e2aa31839c2111204f,2021-10-16 13:31:51,5 min Warm Up Ride,Camila Ramón,cycling,5,29.3,Bryan Kolano
+b8be98a199b544b899a8981e934ab8cd,2023-05-22 18:59:22,10 min Barre,Hannah Corbin,strength,10,0.0,Hillary Kolano
+e671f48a3d714941a5ec4e797307171f,2023-05-22 18:47:31,10 min 90s Pop Barre: Glutes,Ally Love,strength,10,0.0,Hillary Kolano
+e7b45b6cb4df42619665ca512a584292,2023-05-20 16:43:44,5 min Basics: Breath,Kirra Michel,meditation,5,0.0,Hillary Kolano
+56f4b3728e03420b849377e549ad824a,2023-05-20 16:21:52,20 min Mothers Day Barre,Ally Love,strength,20,0.0,Hillary Kolano
+75af06708b9242b6a725ba7e00cd4fae,2023-05-17 15:46:39,30 min Hip Hop 50 Vol. 1,no instructor,lanebreak,30,234.2,Hillary Kolano
+d3dfc8e4b7a94af68ed91743133836eb,2023-05-07 20:13:39,20 min 90s Pilates,Kristin McGee,strength,20,0.0,Hillary Kolano
+15473fa0c0664e2c922913c5f7d37c13,2023-05-07 20:01:40,10 min Barre,Hannah Corbin,strength,10,0.0,Hillary Kolano
+480bf42c02b5498895a42572ea79f9c1,2023-05-05 17:37:25,30 min 90s Pilates,Kristin McGee,strength,30,0.0,Hillary Kolano
+5261c901f52b4d2cb857998ffbce5eea,2023-04-27 18:58:38,15 min Core Strength,Emma Lovewell,strength,15,0.0,Hillary Kolano
+f19ec16cd3f549c4afca69abd84f8524,2023-04-26 19:11:13,Extra 10: Tabata Ride,Hannah Frankson,cycling,10,70.3,Hillary Kolano
+9eeb9904d1144aec8a6536f236371c81,2023-04-26 18:50:06,20 min Tabata Ride,Ally Love,cycling,20,142.0,Hillary Kolano
+ff23c00adf364182a4ed35e5cccac9a4,2023-04-26 15:11:34,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+afe1064dabf7462480af9ab85c35a388,2023-04-25 19:54:31,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+db8ff45014014540b477c45de8f6c3a4,2023-04-25 19:54:16,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+c8ec39a5bd0a4b91be5e9242629f085c,2023-04-25 19:01:14,5 min Cool Down Ride,Robin Arzón,cycling,5,25.3,Hillary Kolano
+6b17e0369c8b4c429b63bf0320a1ac2e,2023-04-25 18:50:20,Extra 10: HIIT Ride,Denis Morton,cycling,10,70.8,Hillary Kolano
+ec46bd8c3c8c4a66ab9c7a2a27f6a612,2023-04-25 18:28:24,20 min Tabata Ride,Ben Alldis,cycling,20,163.9,Hillary Kolano
+d12db0d8a5f74e9984d8afd6c0e88465,2023-04-24 21:28:54,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+601650f342a94c1db9ad9c7be0d032ef,2023-04-22 19:40:43,5 min Full Body Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+c2a85ea5d6f24fe984d916ba6a2573ad,2023-04-22 19:29:32,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+9ea59029099b43239440eb9211d3d553,2023-04-21 16:42:20,15 min Core Strength,Emma Lovewell,strength,15,0.0,Hillary Kolano
+ef0f90f78a6048b0a8fd586f26ba6fec,2023-04-21 16:07:53,30 min Hip Hop Gold Vol. 3,no instructor,lanebreak,30,241.2,Hillary Kolano
+640811d5fbdc4056858dd2d8086da8c6,2023-04-21 13:10:27,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+136cf476e3f24164b42ef7214459756d,2023-04-19 19:58:08,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+77818d02303a412e9e1d8718b8f21e5c,2023-04-19 16:12:25,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+0b7303b10de640a1befa111318284150,2023-04-17 09:37:01,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+aff6ec5b9a194bd09ca1331a18503733,2023-04-16 16:54:32,10 min Cool Down Run,Matt Wilpers,running,10,0.0,Hillary Kolano
+93692c23749e4935ad8efa0eb7cf0e4f,2023-04-16 16:08:52,45 min Intervals Run,Susie Chan,running,45,0.0,Hillary Kolano
+0dd11ac66cb5466ab15cde5d3909dc77,2023-04-15 12:55:30,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+87e92bd42fc4480eafbe3e1ab99be7c6,2023-04-15 12:22:11,30 min Pop Ride,Cody Rigsby,cycling,30,221.8,Hillary Kolano
+d7c2b5386cec43f4816bd8d0d55a5205,2023-04-13 16:05:45,5 min Full Body Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+ca335c47a700454589c081cd7e1ac04e,2023-04-13 15:59:48,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+894a69aff752436caff06c4d2355b81e,2023-04-13 15:33:01,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+dd822015b3904cea8580501c50d7afae,2023-04-11 20:00:03,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+a6a97c9e91ef4fa6aae91cfd569e3c77,2023-04-11 19:59:05,5 min Full Body Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+3b4f759801f14c179194724adc08daa5,2023-04-11 16:07:33,5 min Full Body Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+d512e13cdc7c4aeba7a8a22a25d80127,2023-04-10 11:14:29,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+71770a0b59e142d5ae38bc55c6aba387,2023-04-04 14:38:55,30 min Bootcamp: Upper Body,Jess Sims,bike_bootcamp,30,136.7,Hillary Kolano
+579f46aa19dd4c9ca2298a7ef9dae3de,2023-04-04 13:12:30,5 min Full Body Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+8f5d34639ff5484aab0a20f0cb676e79,2023-04-03 18:48:12,30 min Bootcamp: Upper Body,Jess Sims,bike_bootcamp,30,124.4,Hillary Kolano
+b1d531dc8494411f87094a06cf7b9b55,2023-04-03 13:10:26,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+559be188f1a64dad8fb8408ba7d044a2,2023-04-02 19:39:29,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+b206b9b478b34f828db236fdb95e0530,2023-04-01 17:28:42,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+7c8a6f233ee242f082c5deaf9cb215ec,2023-04-01 16:56:12,30 min Bootcamp: Full Body,Cody Rigsby,bike_bootcamp,30,111.8,Hillary Kolano
+17605be3b01d410393fc3f9f10232fba,2023-04-01 16:42:09,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+c76aa98cb8c44239a57a5e17701a127d,2023-03-31 13:48:59,10 min Core Strength,Emma Lovewell,strength,10,0.0,Hillary Kolano
+7a1b9dee7ca94b0a84a1d604dae58c53,2023-03-31 12:36:13,5 min Core Strength,Emma Lovewell,strength,5,0.0,Hillary Kolano
+4908ade35cbb47e1afc7c9d97fce2b77,2023-03-30 19:08:25,30 min Bootcamp: Upper Body,Jess Sims,bike_bootcamp,30,126.7,Hillary Kolano
+02f1c11b817a4638992b45481caa4855,2023-03-28 18:13:53,30 min Bootcamp: Full Body,Callie Gullickson,bike_bootcamp,30,101.5,Hillary Kolano
+5aa3a01ccf6b48d8ad959ae6b20ceb7c,2023-03-24 14:59:43,30 min Bootcamp: Core,Callie Gullickson,bike_bootcamp,30,91.4,Hillary Kolano
+eac1962bec4945f4a36e47f9ce9e5a30,2023-03-20 19:18:59,30 min Bootcamp: Core,Tunde Oyeneyin,bike_bootcamp,30,126.5,Hillary Kolano
+56106c466f0d4628b12ae9481556ff50,2023-03-17 13:16:56,20 min HIIT Ride,Emma Lovewell,cycling,20,138.2,Hillary Kolano
+1f51e4e894194249a448271f2c83cb5d,2023-03-05 17:55:13,30 min Kylie Minogue Yoga Flow,Mariana Fernández,yoga,30,0.0,Hillary Kolano
+799d3ae29cbf44e1af7b9820bedfcfb3,2023-02-25 20:10:04,45 min Bootcamp: Full Body,Tunde Oyeneyin,bike_bootcamp,45,148.5,Hillary Kolano
+7db1fe96272141d69d0de9167851292f,2023-02-23 17:31:23,Extra 10: Climb Ride,Denis Morton,cycling,10,72.4,Hillary Kolano
+ea63c3aa973f4796b1e56fe2cc2549b7,2023-02-23 17:14:22,15 min HIIT Ride,Sam Yo,cycling,15,111.8,Hillary Kolano
+2ee7abae55ba4d2294d28cee86e4d62f,2023-02-21 20:48:40,15 min Pilates,Rebecca Kennedy,strength,15,0.0,Hillary Kolano
+865933d194d64d0b8a152eb414626a79,2023-02-21 20:35:12,Extra 10: Intervals Ride,Kendall Toole,cycling,10,80.2,Hillary Kolano
+dd2e8ea0a64c4899873c18670ac09e49,2023-02-19 18:23:11,Extra 10: Intervals Ride,Matt Wilpers,cycling,10,70.9,Hillary Kolano
+97caad0e0b91497dad2b7ba50039c802,2023-02-19 18:00:16,20 min 90s Dance Ride,Ben Alldis,cycling,20,161.2,Hillary Kolano
+2a45aa9211a24ffda55bd2dbda0d86af,2023-02-17 21:13:06,10 min Hip Hop Barre: Core,Ally Love,strength,10,0.0,Hillary Kolano
+fa4ff9a090154c6b8fdcea4d2837c685,2023-02-17 20:48:29,20 min Climb Ride,Olivia Amato,cycling,20,170.4,Hillary Kolano
+2b3d0a576a7d49a88131bef8dec360bb,2023-02-15 18:47:09,10 min Pop Core Strength,Rad Lopez,strength,10,0.0,Hillary Kolano
+b044358fe40b41de853b2303c1c676c6,2023-02-15 18:24:24,20 min 2010s Hip Hop Ride,Leanne Hainsby,cycling,20,160.1,Hillary Kolano
+8431ab93894946ef81535ab3886425ae,2023-02-14 18:45:50,5 min Six: the Musical Cool Down Ride,Sam Yo,cycling,5,29.3,Hillary Kolano
+56378fcc80a44438a5dbe9cd2eeb010f,2023-02-14 18:34:47,Extra 10: Intervals Ride,Ben Alldis,cycling,10,82.7,Hillary Kolano
+30e2a834eb414e7cbce7d7a5a912b0bc,2023-02-14 18:17:32,15 min Tabata Ride,Hannah Frankson,cycling,15,122.8,Hillary Kolano
+3d9629686a1f4ca0aceefbdb4884b127,2023-02-11 12:33:43,Extra 10: Intervals Ride,Matt Wilpers,cycling,10,71.5,Hillary Kolano
+7a50ab1774424a7b9b2b7c0d11778066,2023-02-11 12:17:31,15 min HIIT Ride,Ally Love,cycling,15,113.5,Hillary Kolano
+b9a8493d080240fdbb7db2b1e49ac863,2023-02-09 17:08:54,Extra 10: Intervals Ride,Matt Wilpers,cycling,10,70.5,Hillary Kolano
+87f3151629f741ac9d2c4e72fbd87792,2023-02-09 16:53:01,15 min Tabata Ride,Denis Morton,cycling,15,105.1,Hillary Kolano
+9f77ae319e5348e7a18b26aef64f637d,2023-02-08 11:57:44,5 min Cool Down Ride,Hannah Frankson,cycling,5,22.5,Hillary Kolano
+4c47ff943c244f4ebf83f2fb68f39973,2023-02-08 11:42:27,15 min HIIT Ride,Hannah Frankson,cycling,15,122.9,Hillary Kolano
+0c8da82f1ec24687ad6ef326b13d8e1b,2023-02-06 17:57:43,Extra 10: Intervals Ride,Matt Wilpers,cycling,10,78.0,Hillary Kolano
+f3b5927afc7c4217bfe6e785f5a5bb1d,2023-02-06 17:41:19,15 min 90s Ride,Sam Yo,cycling,15,119.2,Hillary Kolano
+2236394cb829425b8847ff23182dca1f,2023-02-04 12:26:56,5 min Cool Down Ride,Leanne Hainsby,cycling,5,26.0,Hillary Kolano
+19a7e42bac0b4f7d9253111d27733267,2023-02-04 12:05:29,20 min HIIT Ride,Camila Ramón,cycling,20,163.7,Hillary Kolano
+f90af030e4114a559879c583c877a86c,2023-02-02 17:50:18,5 min Core Strength,Robin Arzón,strength,5,0.0,Hillary Kolano
+0bff3a1df23b403584408e3bdf49b753,2023-02-02 17:29:04,20 min Hip Hop Barre,Ally Love,strength,20,0.0,Hillary Kolano
+2683ba5980014d73aaf4e5819d37b062,2023-02-01 16:32:34,10 min Patience Meditation,Kristin McGee,meditation,10,0.0,Hillary Kolano
+9b0e1a4aa3df411e8c557d2f4f174225,2023-01-28 12:50:46,5 min Kindness Meditation,Kirra Michel,meditation,5,0.0,Hillary Kolano
+bd3696ed27174d32aea9d93860abe30f,2023-01-28 12:42:02,5 min Cool Down Ride,Hannah Corbin,cycling,5,24.3,Hillary Kolano
+8eeee6ea6d034846ab8460e6fca617c0,2023-01-28 12:21:11,20 min Tabata Ride,Kendall Toole,cycling,20,163.2,Hillary Kolano
+5482cb769b594056ad21c04a59afc64f,2023-01-23 18:17:32,5 min Cool Down Ride,Christine Dercole,cycling,5,26.6,Hillary Kolano
+3a9363f8d07d430495a71e9009562ee5,2023-01-23 17:56:56,20 min HIIT Ride,Emma Lovewell,cycling,20,162.7,Hillary Kolano
+cac8c6abefd94a509e54667328ca736a,2023-01-23 14:14:25,10 min Energizing Meditation,Kristin McGee,meditation,10,0.0,Hillary Kolano
+2566728ea95248cb8e241d57cd168cd9,2023-01-22 18:31:18,Extra 10: Intervals Ride,Leanne Hainsby,cycling,10,82.6,Hillary Kolano
+842da850653a4f4e9678d67fe7b7f671,2023-01-22 18:09:28,20 min 90s Rock Ride,Bradley Rose,cycling,20,165.9,Hillary Kolano
+316e3f343dfe424c99b185e2f19ff7c6,2023-01-20 21:00:07,Extra 10: Climb Ride,Tunde Oyeneyin,cycling,10,81.3,Hillary Kolano
+4cb68705f24247af9a85f19fb818112a,2023-01-20 20:38:48,20 min Rock Ride,Kendall Toole,cycling,20,162.1,Hillary Kolano
+1658b568d1e74bc299dcadf829023924,2023-01-19 17:41:35,5 min Meditation for Healing,Kristin McGee,meditation,5,0.0,Hillary Kolano
+b9b2419102d0444e8c1dd3ae2c432fe6,2023-01-19 17:28:06,Extra 10: Intervals Ride,Leanne Hainsby,cycling,10,74.3,Hillary Kolano
+37f5d5f6f698457098802d242c1dcbd5,2023-01-19 17:07:19,20 min 2000s Rock Ride,Ben Alldis,cycling,20,161.2,Hillary Kolano
+6a7b4726fe0c40d392c35c41502e2ea3,2023-01-19 17:00:42,5 min Warm Up Ride,Ben Alldis,cycling,5,30.6,Hillary Kolano
+0ce366ad855b4682beca22624c167009,2023-01-16 19:04:34,5 min Cool Down Ride,Matt Wilpers,cycling,5,24.8,Hillary Kolano
+5668cde90c584d17aa64cff9d863adc9,2023-01-16 18:33:29,30 min Bootcamp: Core,Tunde Oyeneyin,bike_bootcamp,30,139.1,Hillary Kolano
+efcc92a429394d4889fc8a9a53fa89eb,2023-01-15 18:16:02,10 min Calming Meditation,Mariana Fernández,meditation,10,0.0,Hillary Kolano
+d4f00ce1c3c44e66a342b1ae05d496e1,2023-01-15 17:54:17,20 min Daft Punk Core Strength,Robin Arzón,strength,20,0.0,Hillary Kolano
+4878b21b65bc4ae2b54a6a9b1d989709,2023-01-14 11:38:06,20 min Pop Tabata,no instructor,lanebreak,20,153.9,Hillary Kolano
+9917e975eca341b48afce0da03b1f3e1,2023-01-13 12:26:55,5 min Kindness Meditation,Aditi Shah,meditation,5,0.0,Hillary Kolano
+fa1368d805e94e1b9fba416e4f90afe6,2023-01-11 15:52:08,20 min Top 50 Music: Remixed,no instructor,lanebreak,20,156.6,Hillary Kolano
+84338d7aac504c829aa50ce9f65165cf,2023-01-10 22:06:03,5 min Cool Down Ride,Sam Yo,cycling,5,28.1,Hillary Kolano
+6d6535fc3cbb494cb3f8a66b0b05f0e8,2023-01-10 21:45:18,20 min Classic Rock Ride,Sam Yo,cycling,20,166.2,Hillary Kolano
+69bf553baa08403d99fc932a8ae15108,2023-01-09 21:22:30,5 min Cool Down Ride,Christine Dercole,cycling,5,29.5,Hillary Kolano
+171c6d7c9c8642398bc3ce5446aa4e70,2023-01-09 21:01:42,20 min Hip Hop Ride,Robin Arzón,cycling,20,158.0,Hillary Kolano
+b1690a8de0684dad9eb2fc9a9fce405b,2023-01-07 18:50:04,10 min Foam Rolling Chest & Back,Hannah Corbin,stretching,10,0.0,Hillary Kolano
+60d5115c691a40f6a32d02a46c07c0d8,2023-01-07 18:42:43,5 min Whitney Houston Cool Down Ride,Leanne Hainsby,cycling,5,25.5,Hillary Kolano
+b2b1673c8adb48999807da2b1ecca436,2023-01-07 18:21:43,20 min HIIT Ride,Alex Toussaint,cycling,20,159.3,Hillary Kolano
+da26949478954ce1b970073d787f6ce8,2023-01-05 16:42:23,5 min Cool Down Ride,Hannah Frankson,cycling,5,28.2,Hillary Kolano
+99b1236ed8d24556874d108ae20c3790,2023-01-05 16:21:48,20 min Intervals Ride,Hannah Frankson,cycling,20,151.0,Hillary Kolano
+243bf19c3e3b47598079951c947a1b0e,2023-01-05 12:22:48,5 min Sleep Meditation,Kristin McGee,meditation,5,0.0,Hillary Kolano
+2d21d13006ce4c5b8f9aaceaae0d6a17,2023-01-03 19:20:54,5 min Patience Meditation,Chelsea Jackson Roberts,meditation,5,0.0,Hillary Kolano
+fcd9fae3b3d742c1a133a40031f148ac,2023-01-03 18:11:10,5 min Cool Down Ride,Alex Toussaint,cycling,5,32.3,Hillary Kolano
+be50f934416a4cadb4267aa7454e65b0,2023-01-03 17:50:04,20 min HIIT Ride,Robin Arzón,cycling,20,166.8,Hillary Kolano
+7e6c2689c5af4298a5865891d9d28f9d,2023-01-02 14:11:03,15 min New Years Eve Core Strength,Rad Lopez,strength,15,0.0,Hillary Kolano
+b76ca7c36fce41c5aa3264d2ef479421,2023-01-02 14:01:43,5 min Cool Down Ride,Ben Alldis,cycling,5,27.8,Hillary Kolano
+0c297dbd4e4641f08ed85d74b5ab718e,2023-01-02 13:46:13,15 min Tabata Ride,Bradley Rose,cycling,15,113.9,Hillary Kolano
+288f01e339df4040bcd29772dc8cdcca,2022-12-30 16:08:41,15 min Core Strength,Robin Arzón,strength,15,0.0,Hillary Kolano
+b7514e05eb3e497498bd2aa80558b18d,2022-12-30 16:01:08,5 min Post-Ride Stretch,Sam Yo,stretching,5,0.0,Hillary Kolano
+e5a04ded2a134e888af0e0e1084489ac,2022-12-30 15:45:12,15 min Climb Ride,Sam Yo,cycling,15,120.8,Hillary Kolano
+0ce84a51b18d47b99c7b6eba0c976cc6,2022-12-26 16:26:41,20 min Core Strength,Emma Lovewell,strength,20,0.0,Hillary Kolano
+7261eda3081a44eb83e51cb2aa924edd,2022-12-24 17:54:44,10 min Fit Family Flow: Kids,Kristin McGee,yoga,10,0.0,Hillary Kolano
+305dfdd471cd4ec483f5d5ebb3e6487d,2022-12-16 16:22:33,5 min AFO Post-Ride Stretch: Green Day,Kendall Toole,stretching,5,0.0,Hillary Kolano
+f542838529f64f608b5bbfab8c8209bd,2022-12-16 16:01:20,20 min HIIT Ride,Ben Alldis,cycling,20,164.1,Hillary Kolano
+0a39e5458529484f989f3f0226a508e4,2022-12-14 15:44:12,30 min Intervals & Arms Ride,Leanne Hainsby,cycling,30,162.0,Hillary Kolano
+9b213698ca654ae484847391a316380f,2022-12-13 16:04:36,5 min Cool Down Ride,Alex Toussaint,cycling,5,32.9,Hillary Kolano
+2885747bdc414af9b608b2011e65b5b8,2022-12-13 15:43:53,20 min HIIT Ride,Olivia Amato,cycling,20,167.8,Hillary Kolano
+1dd04af844684b61b8abbf9016f54b74,2022-12-12 19:43:32,20 min Pop Tabata,no instructor,lanebreak,20,169.7,Hillary Kolano
+ae8d47ee1a814366b744709fb1368868,2022-12-09 18:46:13,5 min Post-Ride Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+97c55fc3ab914a09a65a058afd8b73ba,2022-12-09 18:25:27,20 min HIIT Ride,Ben Alldis,cycling,20,168.9,Hillary Kolano
+3e94f5ee110f45b7928b39d64a7e6b30,2022-12-08 14:20:41,20 min 90s Ride,Robin Arzón,cycling,20,158.5,Hillary Kolano
+4805f6810c8d40d5862c2be104aa908c,2022-12-07 18:21:58,5 min Patience Meditation,Cody Rigsby,meditation,5,0.0,Hillary Kolano
+137d084ceb1a4363886ccc91ffc4618e,2022-12-07 18:14:54,5 min Cool Down Ride,Alex Toussaint,cycling,5,25.4,Hillary Kolano
+18c030cc43c6432eacabe02be03e38d0,2022-12-07 17:53:01,20 min HIIT Ride,Olivia Amato,cycling,20,175.4,Hillary Kolano
+396828baa9d144e78f62d5d7556ed528,2022-12-05 18:20:45,20 min Tabata Ride,Sam Yo,cycling,20,170.8,Hillary Kolano
+46ca2c1c42f5492d8b5e535da6afd2f7,2022-12-03 19:05:47,5 min Post-Ride Stretch,Bradley Rose,stretching,5,0.0,Hillary Kolano
+9b724bab97aa4ffb8af932da2ce860f4,2022-12-03 18:49:05,15 min Tabata Ride,Bradley Rose,cycling,15,121.6,Hillary Kolano
+f799d74a5d2944548e7a53027f8ff25f,2022-12-03 18:27:19,15 min Strength Roll Call: Core,Callie Gullickson,strength,15,0.0,Hillary Kolano
+fbec48b3d8bf408790e3b83939500182,2022-12-02 18:30:34,5 min Cool Down Ride,Sam Yo,cycling,5,34.8,Hillary Kolano
+e27d1512b99740049594f4e913cff208,2022-12-02 18:15:10,15 min HIIT Ride,Sam Yo,cycling,15,123.1,Hillary Kolano
+1152b268b94f4d7b8e1e7c37161cc1e4,2022-12-02 18:03:46,Flash 15,Jess Sims,strength,15,0.0,Hillary Kolano
+4a0b232dc5884f6b914d3073e7c22502,2022-12-01 17:57:08,15 min HIIT Ride,Hannah Frankson,cycling,15,126.0,Hillary Kolano
+65dd62137f9d48e6a5754d363fbad12f,2022-12-01 17:40:05,Flash 15,Jess Sims,strength,15,0.0,Hillary Kolano
+adc06fa7606b480a8c1a8873a5c2b210,2022-11-30 18:10:36,5 min Cool Down Ride,Ben Alldis,cycling,5,27.4,Hillary Kolano
+88f3e9fc34dc4d36ad8866998d19b176,2022-11-30 17:54:29,15 min Climb Ride,Bradley Rose,cycling,15,133.1,Hillary Kolano
+7f8f0c442d664af0881c80ed9670fff4,2022-11-28 18:32:59,5 min Post-Ride Stretch,Bradley Rose,stretching,5,0.0,Hillary Kolano
+806a5abd943641dfa4bdf8ef55de9c1b,2022-11-28 18:26:37,5 min Cool Down Ride,Alex Toussaint,cycling,5,30.0,Hillary Kolano
+4a9fba4b785640188ac70c494bbdc98a,2022-11-28 18:05:44,20 min 2010s Ride,Kendall Toole,cycling,20,175.0,Hillary Kolano
+a6f279b1c328478b9b1a26f8d3d15ca2,2022-11-21 19:58:38,30 min Fit Family Live,Jess Sims,cardio,30,0.0,Hillary Kolano
+fb34a9df8a9946dda74002e0dda4c2f6,2022-11-20 20:44:40,Flash 15,Jess Sims,strength,15,0.0,Hillary Kolano
+8791931f38614eba8870e398581cc188,2022-11-20 20:27:10,15 min Tabata Ride,Hannah Frankson,cycling,15,125.3,Hillary Kolano
+f6e532e564d74a3fa14cdc03ee4bff8d,2022-11-19 18:54:56,5 min Post-Ride Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+57ecdbd06e674bceb1e646a1b35d3e0b,2022-11-19 18:49:15,5 min Prince Cool Down Ride,Emma Lovewell,cycling,5,26.5,Hillary Kolano
+c78ade53847a4876beba67b5379f1b2e,2022-11-19 18:18:51,30 min Rock Ride,Sam Yo,cycling,30,251.8,Hillary Kolano
+0820bdce4bc2410ebf8dda1a77263983,2022-11-17 20:41:58,5 min Fitness Goals Meditation,Cody Rigsby,meditation,5,0.0,Hillary Kolano
+b5d59e944825428bb6eb80dc4b10008d,2022-11-17 20:34:58,5 min Prince Cool Down Ride,Emma Lovewell,cycling,5,27.9,Hillary Kolano
+9c9e0534f3db4c4d9b2e8ef775dc979c,2022-11-17 20:14:21,20 min 90s Rock Ride,Jenn Sherman,cycling,20,173.9,Hillary Kolano
+d541ceb66c1747cca0178e329df6a20b,2022-11-15 20:07:09,5 min Relaxing Meditation,Kirra Michel,meditation,5,0.0,Hillary Kolano
+326bc338d0b64c1ab2c264b9d6fea1e8,2022-11-15 19:59:47,5 min Cool Down Ride,Hannah Corbin,cycling,5,26.0,Hillary Kolano
+321631cf13074f4db1e3753b8cce3a57,2022-11-15 19:43:32,15 min Hype EDM Bolt,no instructor,lanebreak,15,124.7,Hillary Kolano
+7ed20876501b3e7bb1e7c29dc833a09b,2022-11-13 13:30:02,30 min 90s Ride,Robin Arzón,cycling,30,260.2,Hillary Kolano
+01d36e965dec4e9a9a55d46d2b22c9d2,2022-11-12 11:52:33,5 min Kindness Meditation,Kirra Michel,meditation,5,0.0,Hillary Kolano
+c566c78231fc4afaa191e1c7870eb6b2,2022-11-12 11:31:16,20 min Barre,Hannah Corbin,strength,20,0.0,Hillary Kolano
+a0a42d110fe44be791f6c162a70e0cc1,2022-11-10 14:05:13,10 min Witness Meditation,Kirra Michel,meditation,10,0.0,Hillary Kolano
+8a1fdc3f66ba473c82c642063f35b2df,2022-11-10 13:41:31,20 min Full Body Strength,Robin Arzón,strength,20,0.0,Hillary Kolano
+72e43cb4869243f09c8883519bc47fa4,2022-11-09 20:08:37,5 min Morning Meditation,Aditi Shah,meditation,5,0.0,Hillary Kolano
+b8193ced8f0f441ca9bbe4810725341f,2022-11-09 19:50:55,15 min Pop Remix Flow,no instructor,lanebreak,15,127.2,Hillary Kolano
+dac99dbd04374d74b8f0c980f56c2520,2022-11-09 13:40:41,15 min 2000s Ride,Ben Alldis,cycling,15,128.7,Hillary Kolano
+72b10c65b34142b4b5fd10837680e34c,2022-11-07 18:48:06,5 min Fitness Goals Meditation,Cody Rigsby,meditation,5,0.0,Hillary Kolano
+e1653d7fc6834d7db90e35118ba82e5e,2022-11-07 18:41:10,5 min Cool Down Ride,Ben Alldis,cycling,5,21.4,Hillary Kolano
+d7ac0c8bfdb7465aae6210d72e26f1be,2022-11-07 18:09:51,30 min 2010s Ride,Kendall Toole,cycling,30,244.5,Hillary Kolano
+f045290392ab41b1a7797ffebb1ad338,2022-11-01 17:21:19,5 min Level Up Meditation,Cody Rigsby,meditation,5,0.0,Hillary Kolano
+357b389c267d4e249c7b51fdd8effaeb,2022-11-01 17:13:52,5 min Cool Down Ride,Sam Yo,cycling,5,29.5,Hillary Kolano
+a95b571e95d54c13b7e433ff6a45b45e,2022-11-01 16:51:56,20 min HIIT Ride,Sam Yo,cycling,20,162.7,Hillary Kolano
+3b715265b60248c38e4def876f7ad227,2022-10-31 18:00:31,5 min Cool Down Ride,Ben Alldis,cycling,5,30.4,Hillary Kolano
+f2482e1429704124a81bf29eb602dde0,2022-10-31 17:38:48,20 min Halloween Ride,Bradley Rose,cycling,20,172.9,Hillary Kolano
+d18f2ca4d05b4d119c9b9f6713c65ae9,2022-10-29 14:07:59,5 min Kindness Meditation,Kirra Michel,meditation,5,0.0,Hillary Kolano
+76b286aa190741ac902c8f4bb5761e17,2022-10-29 14:01:30,5 min Cool Down Ride,Hannah Corbin,cycling,5,20.8,Hillary Kolano
+9f772cc72aed47289bf6158c5ae2f840,2022-10-29 13:38:50,20 min 90s Hip Hop Ride,Robin Arzón,cycling,20,159.1,Hillary Kolano
+8088843b62dc4b75a106a59ac7052d2a,2022-10-23 11:24:58,20 min 90s Rock Ride,Leanne Hainsby,cycling,20,143.4,Hillary Kolano
+2b564026d8784560a3797215e2457417,2022-10-22 10:43:41,20 min Saweetie,no instructor,lanebreak,20,168.8,Hillary Kolano
+0c4b9067f2be431d8cbac09ac1bafc70,2022-10-20 20:11:13,20 min 90s Hip Hop Ride,Hannah Frankson,cycling,20,166.6,Hillary Kolano
+b7747f7c645746aebb08c2ea744c8b0b,2022-10-19 17:14:41,30 min Bad Bunny Hits,no instructor,lanebreak,30,250.6,Hillary Kolano
+31318f319f90471584fd7c0d4d591936,2022-10-14 14:55:33,20 min Pop Pride,no instructor,lanebreak,20,171.6,Hillary Kolano
+555938fec51248a08705fbe409f12a75,2022-10-12 15:32:06,5 min Prince Cool Down Ride,Emma Lovewell,cycling,5,23.9,Hillary Kolano
+9fc91f2519a2498194119a67517ffbf7,2022-10-12 15:10:48,20 min 90s Pop Ride,Hannah Corbin,cycling,20,160.9,Hillary Kolano
+b7e7664a93484fd1ab0acad3d87f4835,2022-10-10 14:00:22,5 min Cool Down Ride,Bradley Rose,cycling,5,39.9,Hillary Kolano
+b7a7e6df0c654d24b665685480b5b3c1,2022-10-10 13:39:36,20 min 90s Rock Ride,Bradley Rose,cycling,20,168.5,Hillary Kolano
+aab63a92d5934c8b9bd97feb5f5a72a4,2022-10-09 14:27:25,5 min Cool Down Ride,Sam Yo,cycling,5,29.4,Hillary Kolano
+2809f7cf62304f7cb2cdc5b9f2c048f8,2022-10-09 14:05:44,20 min Halloween Ride,Bradley Rose,cycling,20,162.1,Hillary Kolano
+ba9a1d2b9c634934806879512c1e77cd,2022-10-06 17:23:36,30 min Halloween Ride,Sam Yo,cycling,30,244.9,Hillary Kolano
+bf612f1edadf4aecb2e29a86fea75da5,2022-10-04 20:52:17,10 min Focus Flow: Hips,Anna Greenberg,yoga,10,0.0,Hillary Kolano
+076667c451574a9c8cbbb2bc0bcb2795,2022-10-04 20:41:23,10 min Core Strength,Ben Alldis,strength,10,0.0,Hillary Kolano
+c2327fc8e7eb4b36a1a85949e5172cee,2022-10-04 20:18:55,15 min Discovery Dash Vol 1 Vol. 1,no instructor,lanebreak,15,132.4,Hillary Kolano
+006318126b6f4ae88a3d5652959f3471,2022-10-01 15:11:19,30 min Climb Supermix,no instructor,lanebreak,30,244.8,Hillary Kolano
+cf393fdf23124646b912accf7fc4ac26,2022-09-27 18:40:37,30 min Lizzo Hits,no instructor,lanebreak,30,254.4,Hillary Kolano
+ba9b4d113d2644e3a1c73928e7db3a42,2022-09-24 11:56:05,5 min Cool Down Ride,Ally Love,cycling,5,25.3,Hillary Kolano
+46dd0917be0c4ae7acbe821d069c6c2f,2022-09-24 11:35:09,20 min Red Hot Chili Peppers Vol. 1,no instructor,lanebreak,20,161.9,Hillary Kolano
+98d089450dd241408a6e14dea3a9f3ee,2022-09-22 18:01:04,5 min Post-Run Stretch,Kirsten Ferguson,stretching,5,0.0,Hillary Kolano
+331950d264b04a368c2bad45a51aee5a,2022-09-22 17:28:36,30 min Green Day,no instructor,lanebreak,30,232.6,Hillary Kolano
+9697cf88fec54a87b6ba67d70748a1dc,2022-09-21 15:27:44,5 min Full Body Stretch,Adrian Williams,stretching,5,0.0,Hillary Kolano
+d190f7bc5e284941ad7477e796694f7e,2022-09-21 15:21:49,5 min Cool Down Ride,Cliff Dwenger,cycling,5,27.5,Hillary Kolano
+a33ba8183bb845dea19b5c02cc619224,2022-09-21 14:50:29,30 min Maroon 5,no instructor,lanebreak,30,238.3,Hillary Kolano
+565ca2b180f94ea0861ea3c79512809a,2022-09-20 17:22:41,20 min 90s Hip Hop Ride,Robin Arzón,cycling,20,162.4,Hillary Kolano
+c5fa8c935d894dc78a60e627c54afba5,2022-09-15 17:15:17,5 min Cool Down Ride,Robin Arzón,cycling,5,21.7,Hillary Kolano
+64262cff5d3045f5841899a1fe2774f5,2022-09-15 16:44:23,30 min 90s Rock Ride,Emma Lovewell,cycling,30,243.9,Hillary Kolano
+2aa4c4ca7cdd4dcf8b6c89ea76665be9,2022-09-14 15:16:38,5 min Cool Down Ride,Ben Alldis,cycling,5,26.0,Hillary Kolano
+251c55a9d33c47e4b6d4631e12010082,2022-09-14 14:45:02,30 min Climb Ride,Ben Alldis,cycling,30,249.6,Hillary Kolano
+1c878a6027b643b1b562ba6f3dedbe34,2022-09-12 17:23:23,5 min Cool Down Ride,Hannah Frankson,cycling,5,23.5,Hillary Kolano
+243eb136ea994c46ae8ce6869516788f,2022-09-12 17:02:28,20 min HIIT Ride,Tunde Oyeneyin,cycling,20,165.8,Hillary Kolano
+3135d1cd32584bcbae0ee5574c2ecf28,2022-09-10 19:52:41,5 min Core Strength,Callie Gullickson,strength,5,0.0,Hillary Kolano
+3b7b9f6c861442e6968d95e92d48036b,2022-09-10 19:31:09,20 min HIIT Cardio,Callie Gullickson,cardio,20,0.0,Hillary Kolano
+8b19e43b7c4b460888f7b043c5d81949,2022-09-03 11:17:39,20 min Pop Punk HIIT Cardio,Logan Aldridge,cardio,20,0.0,Hillary Kolano
+8b056ab1d9fc4f6f9193809c49110d3c,2022-08-31 12:56:13,15 min Low Impact Ride,Alex Toussaint,cycling,15,96.8,Hillary Kolano
+9cba75b243264cf08b021b3a57ba7a1c,2022-08-30 17:44:09,5 min Cool Down Ride,Hannah Frankson,cycling,5,25.7,Hillary Kolano
+4e91ba149db846939c92d02dfe45312a,2022-08-30 17:28:27,15 min Dance Music Ride,Hannah Corbin,cycling,15,122.4,Hillary Kolano
+ef20737cb64547f2ae5164731bdbb532,2022-08-29 15:14:33,10 min AFO Cool Down Ride: RÜFÜS DU SOL,Tunde Oyeneyin,cycling,10,57.4,Hillary Kolano
+a809adc43b3b4842bb16e46e1a27a69e,2022-08-29 14:42:56,30 min HIIT & Hills Ride,Alex Toussaint,cycling,30,212.8,Hillary Kolano
+4e9bca52ae554cee8d0b95be24cdddcd,2022-08-28 11:21:10,10 min Cool Down Ride,Sam Yo,cycling,10,60.7,Hillary Kolano
+1a93c1d1d5e94c67b5136b5256acaa2c,2022-08-28 11:09:35,10 min AFO Warm Up Ride: Maroon 5,Bradley Rose,cycling,10,65.1,Hillary Kolano
+df3ef9c1f88f4ace82d3128faf5eccfa,2022-08-27 16:49:06,10 min Cool Down Ride,Bradley Rose,cycling,10,55.8,Hillary Kolano
+935816dfe1de41e088e55a0029537e22,2022-08-27 16:48:20,10 min Low Impact Ride,Hannah Frankson,cycling,10,0.0,Hillary Kolano
+14c7babf1d3c457d9e3233fda6dad823,2022-08-27 16:16:24,30 min 90s Rock Ride,Bradley Rose,cycling,30,244.5,Hillary Kolano
+134eb0c17200421b87a7747c0e33546f,2022-08-26 16:59:11,10 min AFO Cool Down: Alanis Morissette,Jenn Sherman,cycling,10,50.2,Hillary Kolano
+d44cb0c8d8134cea9b9e2eb2e5faba9b,2022-08-26 16:37:35,20 min HIIT Ride,Hannah Frankson,cycling,20,167.0,Hillary Kolano
+7a34b83a5a514792b4f39ba15a45fccb,2022-08-25 13:31:37,10 min AFO Cool Down Ride: RÜFÜS DU SOL,Tunde Oyeneyin,cycling,10,52.6,Hillary Kolano
+99618667be014f0f9451b28d545a2dd0,2022-08-25 13:00:57,30 min Pop Ride,Robin Arzón,cycling,30,241.3,Hillary Kolano
+faff0f9145f947b3a094c5c64104011f,2022-08-22 15:21:10,5 min Cool Down Ride,Camila Ramón,cycling,5,27.5,Hillary Kolano
+b905c71e957c43278a3696da7d835c3f,2022-08-22 14:49:54,30 min HIIT & Hills Ride,Camila Ramón,cycling,30,242.5,Hillary Kolano
+b18c4d0c65ff4a4eb1a01c150a7fc165,2022-08-21 17:04:52,5 min Cool Down Ride,Matt Wilpers,cycling,5,21.7,Hillary Kolano
+7c17f4cc201a41539f10b5827f01705d,2022-08-21 16:33:11,30 min AFO Ride: Carrie Underwood,Ally Love,cycling,30,242.7,Hillary Kolano
+eb86ef1e26304c00a1edc0721284fde4,2022-08-16 15:09:36,5 min Cool Down Ride,Hannah Frankson,cycling,5,25.3,Hillary Kolano
+6380a83d08924828a35cb6a04a687eec,2022-08-16 14:38:48,30 min Live DJ Ride,Robin Arzón,cycling,30,239.9,Hillary Kolano
+b60d0d7fdf5740978e64a8ae7bf142bc,2022-08-15 15:13:08,5 min Cool Down Ride,Kendall Toole,cycling,5,25.4,Hillary Kolano
+bd26e94cc64b4b2787325f933f92a08b,2022-08-15 14:42:15,30 min EDM Ride,Kendall Toole,cycling,30,239.9,Hillary Kolano
+38280e1edf0e4877a45b9df8630cefbf,2022-08-13 11:12:30,5 min Cool Down Ride,Matt Wilpers,cycling,5,26.4,Hillary Kolano
+57f59abb19c140d8bbea3fe1c9d6be56,2022-08-13 10:51:40,20 min 2000s Rock Ride,Ally Love,cycling,20,163.8,Hillary Kolano
+4709be2fe1534772bf47143b70bd2e5b,2022-08-12 15:03:21,5 min Cool Down Ride,Ally Love,cycling,5,36.2,Hillary Kolano
+36e1a9729a804ac69add13257fa1e748,2022-08-12 14:42:55,20 min HIIT Ride,Jess King,cycling,20,157.2,Hillary Kolano
+245d63b7655d48ed82afbd9ac26e9f52,2022-08-09 17:29:23,10 min Core Strength,Robin Arzón,strength,10,0.0,Hillary Kolano
+815d5deaa5524727abf0d6c78eb61510,2022-08-09 16:39:07,20 min Pop Ride,Bradley Rose,cycling,20,162.2,Hillary Kolano
+4b3b47dbac02471081a5179daa7592e6,2022-08-08 16:54:16,10 min Tabata Ride,Leanne Hainsby,cycling,10,82.1,Hillary Kolano
+44d895abd8284f2a9fd7a0dd8ffca62b,2022-08-08 16:31:20,20 min Pop Punk Shadowboxing,Kendall Toole,cardio,20,0.0,Hillary Kolano
+f688b4b666f2498e8b029d81f5d25c43,2022-08-06 15:45:05,5 min Core Strength,Ben Alldis,strength,5,0.0,Hillary Kolano
+01e4ccd8d49c4efd996f3bffd20d3f95,2022-08-06 15:37:22,5 min Cool Down Ride,Emma Lovewell,cycling,5,23.5,Hillary Kolano
+f86b14cf6559477d990b8af1db73a60a,2022-08-06 15:21:44,15 min Low Impact Ride,Emma Lovewell,cycling,15,97.8,Hillary Kolano
+6d41dedcf7df455a87142cd9afc87323,2022-08-05 15:07:56,5 min Cool Down Ride,Bradley Rose,cycling,5,30.6,Hillary Kolano
+01b62a6a22ec4f04a9a2bcae770524db,2022-08-05 14:47:37,20 min 2000s Rock Ride,Bradley Rose,cycling,20,161.7,Hillary Kolano
+f43a96a04ba94c8382d27df0aeb66b75,2022-08-04 13:14:09,5 min Cool Down Ride,Hannah Frankson,cycling,5,22.4,Hillary Kolano
+46b73df4b572409e978f18efa18e5232,2022-08-04 12:53:32,20 min 90s Hip Hop Ride,Leanne Hainsby,cycling,20,160.5,Hillary Kolano
+14dc926f8dcc45d295ca525dd7f4e597,2022-08-02 16:29:47,5 min Cool Down Ride,Ally Love,cycling,5,27.6,Hillary Kolano
+9e95d85fef2a43099a68dc2fb471950e,2022-08-02 16:08:31,20 min 2000s Rock Ride,Leanne Hainsby,cycling,20,160.7,Hillary Kolano
+4dce5cea1ae24109a87b9fac3d437130,2022-07-31 17:05:10,20 min 2000s Rock Ride,Bradley Rose,cycling,20,135.4,Hillary Kolano
+d129be703e4647068dc3271ca425e6ff,2022-07-30 11:25:58,5 min Cool Down Ride,Hannah Frankson,cycling,5,23.2,Hillary Kolano
+7c36d369bc4e4fd8a3896186743b078e,2022-07-30 11:04:45,20 min 90s Hip Hop Ride,Robin Arzón,cycling,20,138.3,Hillary Kolano
+28b484377fae4ee0bcff62a89e1125e8,2022-07-28 15:48:55,5 min Full Body Stretch,Matty Maggiacomo,stretching,5,0.0,Hillary Kolano
+b24ab8fea4d94b4bad303fd93c4c53c2,2022-07-28 15:24:52,20 min Pop Ride,Olivia Amato,cycling,20,159.9,Hillary Kolano
+605a5c161cc24331afc62653f8e2efb6,2022-07-27 13:58:37,20 min Low Impact Ride,Robin Arzón,cycling,20,124.1,Hillary Kolano
+017606e3521f4905865c7409fb863535,2022-07-26 16:53:36,20 min 2000s Rock Ride,Olivia Amato,cycling,20,164.8,Hillary Kolano
+a98ec36d13784d6dbba8f67ae61a203b,2022-07-24 14:04:48,5 min Cool Down Ride,Kendall Toole,cycling,5,31.9,Hillary Kolano
+21328a86550d436092011bd23b2e4c1b,2022-07-24 13:43:28,20 min 2010s Ride,Kendall Toole,cycling,20,161.6,Hillary Kolano
+1e9cbd32a77444aa86372eae3590ebfa,2022-07-23 11:06:52,5 min Cool Down Ride,Hannah Frankson,cycling,5,27.5,Hillary Kolano
+8a0df7dc8bf84fc09ab7223530e12bd8,2022-07-23 10:45:49,20 min Country Ride,Hannah Corbin,cycling,20,133.9,Hillary Kolano
+f2afb40c15b74a03b0ee8b809f27e85f,2022-07-22 17:55:41,5 min Post-Ride Stretch,Alex Toussaint,stretching,5,0.0,Hillary Kolano
+a5c999e84fce47848f5220a57872c681,2022-07-22 17:32:51,20 min Pop Ride,Robin Arzón,cycling,20,146.3,Hillary Kolano
+9a2f952f0171470188ade9662a975ec3,2022-07-20 14:28:10,5 min Core Strength,no instructor,strength,5,0.0,Hillary Kolano
+b4e8c39d6a444dfe8721d2993a445a9f,2022-07-20 14:22:23,5 min Full Body Stretch,Matty Maggiacomo,stretching,5,0.0,Hillary Kolano
+229228dc4e9440a8b2c9608d4981b631,2022-07-20 14:01:16,20 min Low Impact Ride,Robin Arzón,cycling,20,126.0,Hillary Kolano
+6f09502492014bd182f0eeae0268bc63,2022-07-19 12:44:39,5 min Full Body Stretch,Robin Arzón,stretching,5,0.0,Hillary Kolano
+910f6441450646d3a4220eccedbf1d67,2022-07-19 12:38:34,5 min Cool Down Ride,Robin Arzón,cycling,5,23.1,Hillary Kolano
+9d7e82ef813a4d4bad40fcca011bc343,2022-07-19 12:18:02,20 min HIIT Ride,Robin Arzón,cycling,20,152.3,Hillary Kolano
+79b1932b564f4b10a910acd998545406,2022-07-17 17:16:01,5 min Full Body Stretch,Matty Maggiacomo,stretching,5,0.0,Hillary Kolano
+a6f21fd36efd44c080cd772c103af2c0,2022-07-17 17:09:55,5 min Cool Down Ride,Hannah Corbin,cycling,5,25.4,Hillary Kolano
+040ea59248f945d1b6ead5735582bf57,2022-07-17 16:49:31,20 min 90s Rock Ride,Hannah Corbin,cycling,20,143.7,Hillary Kolano
+21885bcd79604a1ea3b187ab65f98ca2,2022-07-16 11:43:24,5 min Post-Ride Stretch,Bradley Rose,stretching,5,0.0,Hillary Kolano
+b0c0e3db93404fd993824c5b7e0ffc3c,2022-07-16 11:22:18,20 min Pop Punk Ride,Bradley Rose,cycling,20,140.4,Hillary Kolano
+a0e61e9dcadd4e4ab3d0054eac704530,2022-07-14 13:24:10,5 min Core Strength,Rad Lopez,strength,5,0.0,Hillary Kolano
+bf28d30503e045d78360b2f1d871e2e0,2022-07-14 13:18:14,5 min Full Body Stretch,Robin Arzón,stretching,5,0.0,Hillary Kolano
+658d0e95a6864d27a1444774305907c3,2022-07-14 12:51:37,20 min 80s Ride,Robin Arzón,cycling,20,132.8,Hillary Kolano
+62bf709079434e178f21033d428b372e,2022-07-13 14:47:32,10 min Arms & Light Weights,Tunde Oyeneyin,strength,10,0.0,Hillary Kolano
+0cbe73207e9146a1b26c98914cc1225e,2022-07-13 14:29:25,15 min Pop Ride,Tunde Oyeneyin,cycling,15,101.8,Hillary Kolano
+6d98010ed4e748ea965e2738a9053bed,2022-07-11 13:37:59,30 min Spotify Summer Hits Run,Susie Chan,running,30,0.0,Hillary Kolano
+c0e048057ccc418389036086288e10a8,2022-07-11 13:17:39,20 min Spotify Tropical House Run,Jon Hosking,running,20,0.0,Hillary Kolano
+6dfe664dfd67486ea913fc4aaf4fc3b0,2022-07-09 16:44:02,10 min Arms & Light Weights,Emma Lovewell,strength,10,0.0,Hillary Kolano
+77bc451981834c738aeb7e74fe61a467,2022-07-09 16:24:25,15 min 90s Ride,Jenn Sherman,cycling,15,105.1,Hillary Kolano
+8f2ddce2bb0348b484b85a6cca9904ae,2022-07-07 13:04:08,20 min 90s Ride,Emma Lovewell,cycling,20,140.1,Hillary Kolano
+875b4fbebe14497ca7d367e3fc6655bf,2022-07-04 12:41:52,10 min Wimbledon Arms & Light Weights,Bradley Rose,strength,10,0.0,Hillary Kolano
+f5957726a7414dd9a3bee5091cfec1dd,2022-07-04 12:23:36,15 min 2000s Ride,Bradley Rose,cycling,15,99.3,Hillary Kolano
+f28551bf5b6648c5bed98e46557ae762,2022-07-02 13:07:37,10 min Low Impact Ride,Olivia Amato,cycling,10,64.8,Hillary Kolano
+1711429540cf4df49030cac85864b9a5,2022-07-02 12:44:50,20 min Shadowboxing,Jermaine Johnson,cardio,20,0.0,Hillary Kolano
+68311df2c11e4ee0a348a3c9e981ab3f,2022-06-30 15:01:05,5 min Upper Body Stretch,Matty Maggiacomo,stretching,5,0.0,Hillary Kolano
+508c00bb9eaf422a854f4fe09a890a0f,2022-06-30 14:43:07,15 min EDM Ride,Kendall Toole,cycling,15,98.9,Hillary Kolano
+a8ec3dd609ac4e85ace1c0911baf3b64,2022-06-27 17:51:30,20 min Boxing Bootcamp: Upper Body,Rad Lopez,strength,20,0.0,Hillary Kolano
+aea533bc682949eb9bb5726249321710,2022-06-27 17:31:46,15 min Low Impact Ride,Robin Arzón,cycling,15,96.5,Hillary Kolano
+3eb3fb8982fe43d683af846614f05e20,2022-06-25 16:30:04,10 min Upper Body Strength,Callie Gullickson,strength,10,0.0,Hillary Kolano
+4511c1315325445e91eb1d0158199ec0,2022-06-25 16:11:19,15 min Pick-Me-Up Ride,Hannah Corbin,cycling,15,82.2,Hillary Kolano
+31da066ad6724957bdec5bb8f23e69e2,2022-06-23 16:08:27,10 min Core Strength,Rebecca Kennedy,strength,10,0.0,Hillary Kolano
+a8de8fa280da497ca50a5d9267f557ed,2022-06-23 15:50:42,15 min HIIT Ride,Hannah Frankson,cycling,15,91.9,Hillary Kolano
+548f8d14b6084c8cb44f558b7e57e33e,2022-06-22 17:41:58,10 min Arms & Shoulders Strength,Rebecca Kennedy,strength,10,0.0,Hillary Kolano
+6c252e32700143d199a4df743cabed09,2022-06-22 17:23:38,15 min Low Impact Ride,Jenn Sherman,cycling,15,78.1,Hillary Kolano
+351a8d3fcd834740a9088256348fff2a,2022-06-21 17:10:33,10 min Core Strength,Jermaine Johnson,strength,10,0.0,Hillary Kolano
+556dc4fab5ca4189918f6ff193b90317,2022-06-21 16:47:08,20 min 90s Ride,Emma Lovewell,cycling,20,108.3,Hillary Kolano
+a9fc5ed4e6c64d9ead1abfe67355ee5b,2022-06-21 16:46:25,20 min Recovery Ride,Ally Love,cycling,20,0.3,Hillary Kolano
+3caf61863ab14464ab7126650114ff0d,2022-06-19 12:40:01,10 min Upper Body Stretch,Andy Speer,stretching,10,0.0,Hillary Kolano
+783dde206fae4ed19dba7177c3fb0f57,2022-06-19 12:28:34,10 min Low Impact Ride,Robin Arzón,cycling,10,44.5,Hillary Kolano
+d34c871134984191a8a7770e1b51032e,2022-06-18 12:22:14,10 min Upper Body Strength,Callie Gullickson,strength,10,0.0,Hillary Kolano
+30136ce2ab474fe798280ad496888632,2022-06-18 12:09:32,10 min Low Impact Ride,Hannah Frankson,cycling,10,49.1,Hillary Kolano
+446e421bea6d45acaec4786396364037,2022-06-17 19:13:43,10 min Arms & Shoulders Strength,Callie Gullickson,strength,10,0.0,Hillary Kolano
+c2d4dda21548480e974371f625f80bb9,2022-06-17 19:00:53,15 min Country Ride,Olivia Amato,cycling,15,56.0,Hillary Kolano
+8a10ade2fc094904b31e47d255f01eca,2022-06-17 17:09:49,10 min Focus Flow: Core,Aditi Shah,yoga,10,0.0,Hillary Kolano
+4cf178c8b1c844fbb8b4228bf19ec56e,2022-06-05 16:21:15,20 min Low Impact Ride,Denis Morton,cycling,20,92.1,Hillary Kolano
+3c67f137a62f4336b381af16b8943d50,2022-05-10 19:48:55,10 min Arms & Light Weights,Christine Dercole,strength,10,0.0,Hillary Kolano
+e5291ae85e334d378a21a72fae421fe4,2022-05-09 15:15:38,10 min Arms & Light Weights,Ben Alldis,strength,10,0.0,Hillary Kolano
+4b2ae33b24554f518098a90d5db063f3,2022-05-05 20:10:22,10 min Paramore Arms & Light Weights,Kendall Toole,strength,10,0.0,Hillary Kolano
+e4d24a9dcae847e197edd59ec708ee91,2022-04-22 13:03:57,20 min Country Ride,Olivia Amato,cycling,20,124.5,Hillary Kolano
+79b161391c414e04b20198390739ae55,2022-04-19 14:13:38,20 min Pop Punk Ride,Bradley Rose,cycling,20,106.7,Hillary Kolano
+ec74b4df43b7439fb07134ed7296e5f8,2022-04-18 14:53:49,5 min Post-Ride Stretch,Robin Arzón,stretching,5,0.0,Hillary Kolano
+cf44e228bebd4bae8da048ccfe5147dd,2022-04-18 14:32:37,20 min Low Impact Ride,Robin Arzón,cycling,20,105.1,Hillary Kolano
+a2643d67285e48c48a756ead8f91e503,2022-04-16 11:20:15,5 min Post-Ride Stretch,Robin Arzón,stretching,5,0.0,Hillary Kolano
+93a381c2df23499cbacf86c557f1a13b,2022-04-16 10:55:43,20 min Pop Ride,Emma Lovewell,cycling,20,107.9,Hillary Kolano
+a8266f7cab474350954f6aef76ffbc25,2022-04-13 09:35:45,20 min Low Impact Ride,Ally Love,cycling,20,93.0,Hillary Kolano
+2ea43ed1034e4289b57ca08ccea8c803,2022-02-26 12:31:31,10 min David Bowie Cool Down Ride,Leanne Hainsby,cycling,10,48.8,Hillary Kolano
+bcc250038e4a49efa9f32c4efd93bd43,2022-02-26 11:58:56,30 min 90s Rock Ride,Leanne Hainsby,cycling,30,200.0,Hillary Kolano
+c8b37535a20349648080c1463a4808f6,2022-02-21 13:33:09,10 min Pete Tong Club Classical Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+93d255746162420486c96b902419fdfa,2022-02-21 13:00:49,30 min 2000s Ride,Cody Rigsby,cycling,30,202.5,Hillary Kolano
+c9963dc4ea7344a1913fc892a98c2ce2,2022-02-19 19:14:05,5 min Boxing Stretch,Selena Samuela,stretching,5,0.0,Hillary Kolano
+d76706e8e57648ecad367128d22b4a32,2022-02-19 18:42:44,30 min 2010s Ride,Bradley Rose,cycling,30,157.8,Hillary Kolano
+1d5130bdc98a430fbc8893dbfa31e876,2022-02-18 21:53:09,5 min Post-Ride Stretch,Christine Dercole,stretching,5,0.0,Hillary Kolano
+e97ba99a58ab41698c542e170a820e84,2022-02-18 21:21:59,30 min Disney Ride,Kendall Toole,cycling,30,161.7,Hillary Kolano
+1b5d9875c6c74f2a91d9565c3f2deda3,2022-02-16 09:18:22,20 min Pop Ride,Kendall Toole,cycling,20,110.5,Hillary Kolano
+6b3cdab2ed6f4eb8a3414db81f5cfb26,2022-02-13 18:41:11,10 min Bodyweight Strength,no instructor,strength,10,0.0,Hillary Kolano
+7312d7ff60bd4ee19bf3920db0789165,2022-02-13 18:09:56,"30 min XOXO, Cody",Cody Rigsby,cycling,30,187.4,Hillary Kolano
+37060173f382428cb387cb0432d420f5,2022-02-12 18:33:23,5 min Post-Ride Stretch,Robin Arzón,stretching,5,0.0,Hillary Kolano
+3cf7090028664d96b398c78ad8f23dc1,2022-02-12 18:02:31,30 min Pop Ride,Robin Arzón,cycling,30,182.3,Hillary Kolano
+e1f26067037f4814ad7bd63d9a6c91ff,2022-02-11 09:20:22,20 min Low Impact Ride,Emma Lovewell,cycling,20,109.2,Hillary Kolano
+117758bc67474ec6ab18657d78f69a01,2022-02-09 09:11:40,20 min Pop Ride,Robin Arzón,cycling,20,108.2,Hillary Kolano
+ad0311d9105543bc84dba5f5fa41cb0d,2022-02-07 17:45:12,10 min Full Body Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+05ee286b9a5f48739a88b19dd44b5004,2022-02-07 17:45:13,10 min Bodyweight Strength,Ben Alldis,strength,10,0.0,Hillary Kolano
+845386e787384033a04ab0922ea3088b,2022-02-07 17:24:04,20 min Low Impact Ride,Ben Alldis,cycling,20,107.4,Hillary Kolano
+119242e3e42a4414b882ba2e4c2521bb,2022-02-06 18:57:18,10 min David Bowie Full Body Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+e9d9aa00d81f4575854e11683a24650d,2022-02-06 18:24:06,30 min Pop Ride,Ally Love,cycling,30,192.9,Hillary Kolano
+aacac455405d45a9b797a5b6c6399c5d,2022-02-03 17:27:16,20 min 90s Hip Hop Ride,Robin Arzón,cycling,20,111.7,Hillary Kolano
+4fa683138b3b4acaa2b5c4849eb3599c,2022-02-02 22:49:25,10 min Post-Run Stretch,Matty Maggiacomo,stretching,10,0.0,Hillary Kolano
+9b23162c0577496e98607946ae01b848,2022-02-02 20:16:16,30 min 2000s Rock Ride,Leanne Hainsby,cycling,30,160.2,Hillary Kolano
+f860a84898f44eefba22a2c9add23bbb,2022-02-01 20:56:52,5 min Post-Ride Stretch,Tunde Oyeneyin,stretching,5,0.0,Hillary Kolano
+d552fd66531e4e96bc1098fbc8cdde50,2022-02-01 20:24:11,30 min Intervals & Arms Ride,Ally Love,cycling,30,171.0,Hillary Kolano
+946e784c0ddb49d7ac74898363c42e60,2022-02-01 20:21:44,30 min Intervals & Arms Ride,Ben Alldis,cycling,30,0.0,Hillary Kolano
+2d09fd69ac574b969c2bbe965ff1e1e3,2022-01-31 19:54:53,20 min Dance Cardio,no instructor,cardio,20,0.0,Hillary Kolano
+f46bb597a2344c6785c53d1abdf7c93e,2022-01-31 15:10:55,30 min Yoga Flow,Kristin McGee,yoga,30,0.0,Hillary Kolano
+aa6509147003436fa2e636a852e1f1eb,2022-01-30 13:30:19,10 min Prenatal Focus Flow: Hips,Kristin McGee,yoga,10,0.0,Hillary Kolano
+c36a67a7fdc54bf0b89a46ac7f28a39f,2022-01-30 13:25:12,10 min Prenatal Focus Flow: Hips,Kristin McGee,yoga,10,0.0,Hillary Kolano
+4381fb95c4974731af5989e8bd49ca24,2022-01-30 13:00:41,20 min Disney Barre,Ally Love,strength,20,0.0,Hillary Kolano
+521414b08f7e44da9450d5201476e60f,2022-01-27 14:48:44,5 min Post-Ride Stretch,Ally Love,stretching,5,0.0,Hillary Kolano
+f35fb34eb73243ba9a399c38115cf8e2,2022-01-27 14:27:10,20 min Low Impact Ride,Denis Morton,cycling,20,112.2,Hillary Kolano
+f4503b42f7664af4a67e17597555f53f,2022-01-27 14:15:58,5 min Full Body Strength Warm Up,Robin Arzón,strength,5,0.0,Hillary Kolano
+0160a3c69ee24abdbf3c57a9dfd059cd,2022-01-25 20:49:32,5 min Full Body Strength Warm Up,Robin Arzón,strength,5,0.0,Hillary Kolano
+c0889defd7e24ca4830d5aba695344c6,2022-01-25 20:27:25,20 min Low Impact Ride,Robin Arzón,cycling,20,103.4,Hillary Kolano
+273441db7c01423894ee264ace6154ed,2022-01-24 20:54:18,10 min Low Impact Ride,Robin Arzón,cycling,10,50.0,Hillary Kolano
+7ecff7682ef74757a007efed0fa6a4e8,2022-01-24 20:36:09,15 min Barre,Ally Love,strength,15,0.0,Hillary Kolano
+4416f52b2b0346778581bf9cd67f50d3,2022-01-22 18:57:35,5 min Post-Ride Stretch,Bradley Rose,stretching,5,0.0,Hillary Kolano
+2450e34afae647d49e52eae9e977c9f3,2022-01-22 18:36:50,20 min Country Ride,Bradley Rose,cycling,20,110.3,Hillary Kolano
+da652d0c9da94686abd122d803b94b3e,2022-01-21 10:42:08,20 min Fit Family Flow: Disney,Kristin McGee,yoga,20,0.0,Hillary Kolano
+395f9019a6ce459cbd31df274ea24cdf,2022-01-20 20:50:01,5 min Post-Ride Stretch,Ally Love,stretching,5,0.0,Hillary Kolano
+27dce1115eea4d1e8c73a7e7d57301bc,2022-01-20 20:22:40,10 KM Georgia Longleaf Pines Ride,no instructor,cycling,0,126.9,Hillary Kolano
+0f3dd6b9ea2c41679afef6f62de13a5b,2022-01-19 21:17:49,5 min Post-Ride Stretch,Emma Lovewell,stretching,5,0.0,Hillary Kolano
+1a8733aa33bc4630834c212c5afc2464,2022-01-19 21:07:05,10 min Arms & Light Weights,Emma Lovewell,strength,10,0.0,Hillary Kolano
+fc3858ff3234435580931e36572e3ee3,2022-01-19 20:58:15,5 min Cool Down Ride,Hannah Corbin,cycling,5,23.7,Hillary Kolano
+0ed70ca9be1e4115b014f595c1de9405,2022-01-19 20:36:36,20 min 90s Ride,Emma Lovewell,cycling,20,117.3,Hillary Kolano
+2059c7e1b365428fa19c047dc44bd833,2022-01-18 15:02:16,30 min Prenatal Slow Flow,Anna Greenberg,yoga,30,0.0,Hillary Kolano
+a43e88b47d2a49ecb721fb048ce98682,2022-01-14 17:30:57,5 min Post-Ride Stretch,Ally Love,stretching,5,0.0,Hillary Kolano
+32125a3db31f4225818ce1cc61bbb5ab,2022-01-14 17:24:08,5 min Cool Down Ride,Ally Love,cycling,5,29.4,Hillary Kolano
+4e279321e1b144bdb9f7e2400b9500fa,2022-01-14 17:02:32,20 min Beginner Ride,Ally Love,cycling,20,107.0,Hillary Kolano
+d4316eaf42db448b9467c3c9ba0cf27c,2022-01-13 14:16:13,10 min Full Body Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+c8707bada3aa400b89ebc5ba5148d397,2022-01-13 14:14:56,10 min Post-Ride Stretch,Charlotte Weidenbach,stretching,10,0.0,Hillary Kolano
+11c496c26f1545489b31df0280e36b47,2022-01-13 13:52:52,20 min New Tracks Ride,Alex Toussaint,cycling,20,113.0,Hillary Kolano
+20ffa8f17c1a4c7b8414d8b896087e9f,2022-01-11 13:24:57,20 min Hip Hop Ride,Robin Arzón,cycling,20,108.4,Hillary Kolano
+f1b54d8ca4284029a5bae6bd6e0fc61f,2022-01-06 14:04:59,10 min Arms & Light Weights,Robin Arzón,strength,10,0.0,Hillary Kolano
+fd68dfce8b7a47c99b5bfc93cd220a07,2022-01-06 13:41:34,20 min Beginner Ride,Robin Arzón,cycling,20,101.4,Hillary Kolano
+e62e53e063784046b934edbf1c3588a1,2022-01-05 13:15:01,10 min Red (Taylors Version) Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+614cda98b89b41118237eb870bb93987,2022-01-05 12:52:51,20 min New Year’s Day Recovery Ride,Sam Yo,cycling,20,96.3,Hillary Kolano
+853e28a3ffa04f3c8ebca57acd7532cb,2022-01-02 11:18:08,10 min Full Body Stretch,Ben Alldis,stretching,10,0.0,Hillary Kolano
+b047513ff9c142d79804c64589c6b808,2022-01-02 10:53:00,20 min Prenatal Restorative,Anna Greenberg,yoga,20,0.0,Hillary Kolano
+d1fd8a825006436e981cf4a38c6af1a9,2022-01-01 22:36:37,5 min Post-Ride Stretch,Leanne Hainsby,stretching,5,0.0,Hillary Kolano
+0c3c4623c2924ca5a448a783f5e03719,2022-01-01 22:13:13,20 min Pop Ride,Alex Toussaint,cycling,20,121.9,Hillary Kolano
+02d3c5dffed24ad9a2b4c5971cab35b5,2021-12-29 21:33:56,20 min Beginner Ride,Emma Lovewell,cycling,20,116.2,Hillary Kolano
+22f8a3a6961d49899839189fbb8411c6,2021-12-26 17:28:19,20 min Low Impact Ride,Ally Love,cycling,20,106.4,Hillary Kolano
+0a3c727381924f30b8a3be09dcfe79d5,2021-12-25 11:30:05,30 min Prenatal Yoga Flow,Kristin McGee,yoga,30,0.0,Hillary Kolano
+8c3ed50598fc444ab015118a2d855a7d,2021-12-15 15:52:05,10 min Prenatal Focus Flow: Hips,Kristin McGee,yoga,10,0.0,Hillary Kolano
+d299a5d195ca464d8bbf227d8947a404,2021-12-14 09:21:12,20 min Beginner Ride,Emma Lovewell,cycling,20,94.5,Hillary Kolano
+9a72f729d25f42a481ae5a922b85618d,2021-12-13 09:53:01,10 min Prenatal Focus Flow: Hips,Kristin McGee,yoga,10,0.0,Hillary Kolano
+6c4b1b9129184e0f884035b7a7b432b5,2021-12-11 12:42:08,20 min Holiday Party Ride,Bradley Rose,cycling,20,90.5,Hillary Kolano
+60c4e1d98d9b4e14a6acae202ac13a36,2021-12-10 19:19:25,20 min Beginner Ride,Camila Ramón,cycling,20,95.8,Hillary Kolano
+4148dd123917406e84763261022f84a3,2021-12-07 09:43:52,10 min Focus Flow: Hamstrings,Ross Rayburn,yoga,10,0.0,Hillary Kolano
+100164f62917413db3ff380bd063aba4,2021-12-05 15:38:12,10 min Flow & Let Go Meditation,Aditi Shah,meditation,10,0.0,Hillary Kolano
+c21994ee9e4543558e9629297424620c,2021-12-05 15:13:09,30 min Yoga Flow,Aditi Shah,yoga,30,0.0,Hillary Kolano
+7ab6b6dbad12420ea38f5ffac362b1c0,2021-10-30 12:35:31,30 min Tabata Ride,Ally Love,cycling,30,182.2,Hillary Kolano
+e1d893049ee64bebaf89af73a77ab4aa,2021-10-22 10:00:01,30 min Aretha Franklin Ride,Robin Arzón,cycling,30,153.1,Hillary Kolano
