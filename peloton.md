@@ -55,6 +55,8 @@ Although Peloton does not publish their API documentation, I was able to find so
 
 See below for what the entire data pipeline looks like!
 
+![pipeline](https://github.com/bryankolano/peloton_etl_pipeline_and_data_analysis/blob/master/peloton_flow.jpeg)
+
 From Google Cloud Platform (GCP) virtual Machine running Python with an Apache Airflow webserver and scheduler, the following four steps occur in one Airflow DAG scheduled to run at the end of every day:
 1. Authentication 
     - Authenticate into peloton API endpoint for both Bryan and Hillary credentials
