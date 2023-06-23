@@ -1,0 +1,7 @@
+pandas
+numpy
+python-dotenv
+apache-airflow[amazon]
+boto3
+psycopg2
+apache-airflow 
